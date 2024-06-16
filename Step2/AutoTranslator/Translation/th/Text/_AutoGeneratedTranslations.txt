@@ -1,0 +1,645 @@
+﻿Lobby ID\n5435252534453=ล็อบบี้ ID 5435252534453
+Kick=เตะ
+Seed=เมล็ด
+Click to reveal=คลิกเพื่อเปิดเผย
+Back=กลับ
+Lobby ID=ID ล็อบบี้
+Difficulty=ยาก
+Version1.3=เวอร์ชัน 1.3\nภาษาไทยโดย SUPANAT_hub
+Game Mode=โหมดเกม
+Player Damage=ตีเพื่อน
+Creative=สร้างสรรค์
+Versus=เวอร์ซัส
+Survival=เอาชีวิตรอด
+On=เปิด
+Off=ปิด
+Gamer=เกมเมอร์
+Normal=ปกติ
+Easy=ง่าย
+Settings=การตั้งค่า
+Host Lobby=โฮสต์ล็อบบี้
+Bean\n=ถั่ว\n
+Achievements=ความสำเร็จ
+Quit=ออก
+About=เกี่ยวกับ
+Join Lobby=เข้าร่วมล็อบบี้
+Copy to clipboard=คัดลอก
+Lobby ID: (send to friend)<size\=90%>\n109775241512001917=ล็อบบี้ ID: (ส่งให้เพื่อน)<size\=90%>\n109775241512001917
+Start=เริ่ม
+SUPANAT_hub=SUPANAT_hub
+Loading Scene=ฉากกำลังโหลด
+Metal=โลหะ
+New Text=ข้อความใหม่
+FURNACE=เตาเผา
+CAULDRON=หม้อ
+Adamanite Ore=แร่อแมนไทด์
+Fuel=เชื้อเพลิง
+<color\=green>Ready=<color\=green>พร้อม
+Finished loading=โหลดเสร็จแล้ว
+Rock\n(E to pickup)=หิน\n(E เพื่อเก็บ)
+-DAY 0-=-Day 0-
+Find and pick up a rock=ค้นหาและหยิบหิน
+Open chest=เปิดกล่อง
+\n<color\=#A5FCFF>SUPANAT_hub: Picked up <color\=white>(Sneaker)<color\=white>=\n<color\=#A5FCFF>SUPANAT_hub: หยิบขึ้นมา <color\=white>(รองเท้าผ้าใบ)<color\=white>
+Sneaker\n<size\=75%>+Movement speed=รองเท้าผ้าใบ\n<size\=75%>+ความเร็วในการเคลื่อนไหว
+Rock\n<size\=50%>(Press "E" to pickup=หิน\n<size\=50%>(กด "E" เพื่อรับ)
+Resume=ประวัติย่อ
+Leave Game=ออกจากเกม
+Open inventory [Tab]=เปิดสินค้าคงคลัง [Tab]
+1x Rock=หิน 1x
+Unlocked Rock=ปลดล็อคหิน
+Fir=เฟอร์
+Inventory=รายการสิ่งของ
+HP\nShield\nArmor\nStrength\nCritical%\nAttack Speed\nSpeed\nMax Hit=เลือด\nโล่\nเกราะ\nความแข็งแกร่ง\n%คริติคัล\nความเร็วโจมตี\nการวิ่ง\nโจมตีสูงสุด
+Put rock on hotbar=นำหินมาถือบนมือ
+Rock\n<size\=50%><i>its rock=หิน\n<size\=50%><i>หินของมัน
+Slap a tree=ตบต้นไม้
+25 Gold\n<size\=75%>open chest=25 ทอง\n<size\=75%>เปิดกล่อง
+Tree=ต้นไม้
+Open inventory and craft a workbench=เปิดสินค้าคงคลังและสร้างโต๊ะทำงาน
+Unlocked Wood=ปลดล็อคไม้
+14x Wood=ไม้ 14x
+Unlocked Workbench=ปลดล็อคโต๊ะทำงาน
+Workbench<size\=60%>\nWood - 10=โต๊ะทำงาน<size\=60%>\nไม้ - 10
+Place the workbench with [Mouse1]=วางโต๊ะทำงานกับ [mouse1]
+Chefs hut=กระท่อมพ่อครัว
+Press R to rotate build=กด R เพื่อหมุน
+Unlocked Bark=ปลดล็อคก้าน
+Workbench\n<size\=50%>(Press "E" to use)=โต๊ะทำงาน\n<size\=50%>(กด "E" เพื่อใช้)
+Unlocked Chest=กล่องปลดล็อค
+Unlocked Wood Doorway=ประตูไม้ปลดล็อค
+Unlocked Wood Floor=พื้นไม้ปลดล็อค
+Unlocked Wood Pole=เสาไม้ปลดล็อค
+Unlocked Wood Roof=หลังคาไม้ปลดล็อค
+Unlocked Wood stairs=บันไดไม้ปลดล็อค
+Unlocked Wood stairs thinn=บันไดไม้ที่ปลดล็อค Thinn
+Unlocked Wood Wall=ผนังไม้ปลดล็อค
+Birch=ไม้เรียว
+Unlocked Wood Wall Half=ปลดล็อคผนังไม้ครึ่ง
+Unlocked Wood Wall Tilted=ผนังไม้ปลดล็อคเอียง
+Unlocked Bowl=ชามปลดล็อค
+Unlocked Cauldron=หม้อหม้อปลดล็อค
+Unlocked Furnace=ปลดล็อคเตาหลอม
+Unlocked Wood Axe=ขวานไม้ปลดล็อค
+Unlocked Wood Pickaxe=แผ่นไม้ปลดล็อค
+Coal=ถ่านหิน
+Revive SUPANAT_hub (29)=Revive Supanat_hub (29)
+\n<color\=orange>SUPANAT_hub has died.=\n<color\=orange>Supanat_hub เสียชีวิต
+Revive SUPANAT_hub (28)=Revive Supanat_hub (28)
+Revive SUPANAT_hub (27)=Revive Supanat_hub (27)
+Kills |=ฆ่า |
+Defeat..=ความพ่ายแพ้..
+Menu=เมนู
+Deaths |=ความตาย
+Revives |=ฟื้นฟู |
+DamageDone |=เสียหาย
+DamageTaken |=Damagetaken |
+Day |=Day |
+Powerups |=Powerups
+Chests |=หีบ
+Gold collected |=Gold Collected |
+Revive SUPANAT_hub (15)=Revive Supanat_hub (15)
+Revive SUPANAT_hub (13)=REVIVE SUPANAT_HUB (13)
+200 Gold\n<size\=75%>open chest=ทองคำ 200 ทอง\n<size\=75%>เปิดกล่อง
+Chest\n<size\=50%>(Press "E" to open=กล่อง\n<size\=50%>(กด "E" เพื่อเปิด)
+Chest=กล่อง
+Chest\n<size\=50%>(Someone is already using it..)=กล่อง\n<size\=50%>(มีคนใช้อยู่แล้ว .. )
+Boat Map\n<size\=50%><i>Something important is marked on this map..=แผนที่เรือ\n<size\=50%><i>สิ่งสำคัญคือการทำเครื่องหมายบนแผนที่นี้ ..
+Unlocked Boat Map=แผนที่เรือปลดล็อค
+1x Boat Map=แผนที่เรือ 1x
+Coal\n<size\=50%><i>its flamable rock=ถ่านหิน\n<size\=50%><i>หินที่เปล่งประกาย
+Unlocked Coal=ปลดล็อคถ่านหิน
+3x Coal=ถ่านหิน 3x
+Wooden Cart=รถเข็นไม้
+Gulpon Shroom\n<size\=50%>(Press "E" to pickup=Gulpon Shroom\n<size\=50%>(กด "E" เพื่อรับ)
+Unlocked Gulpon Shroom=ปลดล็อค Gulpon Shroom
+1x Gulpon Shroom=1x gulpon shroom
+Challenge Guardian=ท้าทายผู้พิทักษ์
+\nSomething has been marked on your map...  ("M" to open map)=\nมีการทำเครื่องหมายบางอย่างบนแผนที่ของคุณ ... ("M" เพื่อเปิดแผนที่)
+8x Wood=ไม้ 8x
+7x Wood=ไม้ 7x
+CRAFTING=การประดิษฐ์
+Basic=พื้นฐาน
+Build=สร้าง
+Tools=อุปกรณ์
+Stations=สถานี
+Bowl<size\=60%>\nWood - 1=ชาม<size\=60%>\nไม้ - 1
+2x Bowl=2x ชาม
+15x Wood=ไม้ 15x
+15x Rock=หิน 15x
+Gold Axe\n<size\=50%><i>its axe=ขวานทองคำ\n<size\=50%><i>ขวานของมัน
+1x Gold Axe=ขวานทองคำ 1x
+5x Wood=ไม้ 5x
+1x Bowl=ชาม 1x
+Wood Pickaxe<size\=60%>\nWood - 5\nBark - 5=ไม้ลวก<size\=60%>\nไม้ - 5\nเปลือกไม้ - 5
+Unlocked Torch=คบเพลิงปลดล็อค
+Cauldron<size\=60%>\nWood - 10\nRock - 10=หม้อ<size\=60%>\nไม้ - 10\nร็อค - 10
+Furnace<size\=60%>\nRock - 15=เตาเผา<size\=60%>\nร็อค - 15
+Gulpon Shroom\n<size\=50%><i>yummy=Gulpon Shroom\n<size\=50%><i>อร่อย
+Cauldron\n<size\=50%>(Press "E" to open=หม้อ\n<size\=50%>(กด "E" เพื่อเปิด)
+Cauldron=หม้อ
+Bowl\n<size\=50%><i>its bowl=ชาม\n<size\=50%><i>ชาม
+Unlocked Shovel=พลั่วปลดล็อค
+Unlocked Gold Axe=ขวานทองที่ปลดล็อค
+Wood\n<size\=50%><i>its wood=ไม้\n<size\=50%><i>ไม้ของมัน
+Unlocked Red Soup=ซุปสีแดงปลดล็อค
+Rock=หิน
+9x Rock=หิน 9x
+Unlocked Flint=ปลดล็อคหินเหล็กไฟ
+6x Flint=6x Flint
+5x Coal=ถ่านหิน 5x
+Mithril=มิ ธ ริล
+Unlocked Flint Arrow=ลูกศรฟลินท์ปลดล็อค
+6x Coal=ถ่านหิน 6x
+Wheat\n<size\=50%>(Press "E" to pickup=ข้าวสาลี\n<size\=50%>(กด "E" เพื่อรับ)
+Revive the homies=ฟื้นฟู Homies
+80 Gold\n<size\=75%>open chest=80 ทอง\n<size\=75%>เปิดกล่อง
+9x Wood=ไม้ 9x
+Unlocked Coin=เหรียญปลดล็อค
+10x Coin=เหรียญ 10x
+12x Coin=เหรียญ 12x
+9x Coin=เหรียญ 9x
+7x Coin=เหรียญ 7x
+Revive SUPANAT_hub (30=Revive Supanat_hub (30)
+\nมีการทำเครื่องหมายบางอย่างบนแผนที่ของคุณ ... ("M" เพื่อเปิดแผนที่)\n<color\=orange>SUPANAT_hub has died.=\nมีทำเครื่องหมายอย่างอย่างบนแผนที่คุณของคุณคุณคุณ\n<color\=orange>Supanat_hub เสียชีวิต
+Video=วิดีโอ
+Audio=เสียง
+Controls=ควบคุม
+Inverted Mouse Vertical=เมาส์คว่ำ
+Tutorial=การสอน
+FOV=FOV
+Camera Shake=กล้องสั่นคลอน
+Sensitivity=ความไว
+Inverted Mouse Horizontal=สลับเมาส์
+Gameplay=ทั่วไป
+Show Grass=แสดงหญ้า
+Graphics\n=กราฟิก\n
+Ambient Occlusion=การบดเคี้ยวโดยรอบ
+Soft Particles=อนุภาคอ่อน
+Motion Blur=การเคลื่อนไหวเบลอ
+Shadow Quality=คุณภาพของเงา
+None=ไม่มี
+Low=ต่ำ
+Anti Aliasing=ลบรอยหยัก
+Texture Resolution=ความละเอียดพื้นผิว
+Shadow Cascades=Shadow Cascades
+Bloom=แสงฟุ้ง
+Shadow Resolution=ความละเอียดเงา
+Shadow Distance=ระยะเงา
+Two=สอง
+x2=x2
+Apply=ใช้
+Always=ตลอด
+VSync=vsync
+Fullscreen Mode=โหมดเต็มหน้าจอ
+ExclusiveFullScreen=Exclusivefullscreen
+1600 x 900 @ 60Hz=1600 x 900 @ 60Hz
+Max FPS=Max FPS
+Resolution=ขนาดจอ
+Fullscreen=เต็มจอ
+Music volume=เสียงเพลง
+Master volume=เสียงหลัก
+Mouse0=เมาส์ 0
+LeftShift=LeftShift
+Move Forward=ก้าวไปข้างหน้า
+Move Right=ย้ายไปทางขวา
+Map=แผนที่
+Right Click / Build=คลิกขวา / สร้าง
+Move Left=ย้ายไปทางซ้าย
+Move Backward=เลื่อนไปข้างหลัง
+Jump=กระโดด
+Left Click / Attack=คลิกซ้าย / โจมตี
+E=E
+Sprint=วิ่ง
+Space=Space
+Mouse1=เมาส์ 1
+A=A
+Tab=Tab
+S=S
+M=M
+D=D
+Interact=มีปฏิสัมพันธ์
+W=W
+Kill 200 enemies using bows=ฆ่าศัตรู 200 คนโดยใช้ธนู
+Bullseye=bullseye
+Beat the game using only a rock as your weapon / tool. This goes for all players.=เอาชนะเกมโดยใช้หินเป็นอาวุธ / เครื่องมือของคุณ\nสิ่งนี้ไปสำหรับผู้เล่นทุกคน
+Caveman=คนถ้ำ
+Defeat Chief=เอาชนะหัวหน้า
+Chief=หัวหน้า
+Open Chiefs chest=เปิดหัวหน้าหัวหน้า
+Irresistible=ต้านทานไม่ได้
+Defeat big chunk=เอาชนะก้อนใหญ่
+David vs Goliath=David vs Goliath
+Big Mistake=ความผิดพลาดครั้งใหญ่
+Play Muck for the first time=เล่นโคลนเป็นครั้งแรก
+Architect=สถาปนิก
+Build 250 builds=สร้าง 250 builds
+A gamer move=การเคลื่อนไหวของนักเล่นเกม
+Beat the game in less than 10 days on Gamer mode=เอาชนะเกมในเวลาไม่ถึง 10 วันในโหมด Gamer
+Guardian=ผู้ปกครอง
+Defeat Guardian=เอาชนะ Guardian
+Gronk=กรอง
+Defeat Gronk=เอาชนะ Gronk
+Goblin Slayer=Goblin Slayer
+Slay 1000 goblins=สังหาร 1000 goblins
+Go outside=ไปข้างนอก
+Survive for 100 days=รอดชีวิตมาได้ 100 วัน
+Fearless=ไม่เกรงกลัว
+Slay all bosses=สังหารผู้บังคับบัญชาทั้งหมด
+Easy Peasy=Peasy ง่าย
+Beat the game on easy difficulty=เอาชนะเกมด้วยความยากลำบากง่ายๆ
+Muck this game=โคลนเกมนี้
+Die 100 Times=ตาย 100 ครั้ง
+Muck off=โคลน
+Die 50 Times=ตาย 50 ครั้ง
+Milkman=คนขายนม
+Pick up 10 Milk powerups in one game=รับ 10 Milk Powerups ในเกมเดียว
+Leg day=วันขา
+Walk 250km=เดิน 250 กม.
+Learning the ropes=เรียนรู้เชือก
+Beat the game on normal difficulty=เอาชนะเกมด้วยความยากปกติ
+Illegal work=งานที่ผิดกฎหมาย
+Craft 1,000 coins=งานฝีมือ 1,000 เหรียญ
+I am Inevitable=ฉันหลีกเลี่ยงไม่ได้
+Collect all 5 gems=รวบรวมทั้ง 5 อัญมณี
+Hardcore gamer=นักเล่นเกมไม่ยอมใครง่ายๆ
+Beat the game on gamer difficulty=เอาชนะเกมด้วยความยากลำบากของเกมเมอร์
+Dream Team=ทีมในฝัน
+Beat the game with 2 players, but no one can take any damage (Normal diff or harder)=เอาชนะเกมด้วยผู้เล่น 2 คน แต่ไม่มีใครสามารถสร้างความเสียหายได้ (ปกติหรือยากขึ้น)
+Death Wish=ความปรารถนาความตาย
+Start 200 battle totems=เริ่มต้น 200 การต่อสู้โทเท็ม
+Phoon=ฝ่าฝืน
+Jump 10,000 times=กระโดด 10,000 ครั้ง
+Pain and suffering=ความเจ็บปวดและความทุกข์ทรมาน
+Die 10 times=ตาย 10 ครั้ง
+Oh you don't know what Karlson is?=โอ้คุณไม่รู้ว่า Karlson คืออะไร?
+Find and wishlist Karlson in Muck=ค้นหาและสิ่งที่อยากได้ Karlson ใน Muck
+Muck=โคลน
+Beat the game using only a rock, taking no damage and using no powerups. This goes for all players in lobby. (Normal or harder)=เอาชนะเกมโดยใช้หินเพียงไม่รับความเสียหายและไม่ใช้พลัง\nสิ่งนี้ไปสำหรับผู้เล่นทุกคนในล็อบบี้\n(ปกติหรือยากขึ้น)
+Muckinator 4=Muckinator 4
+Kill 100,000 mobs=ฆ่า 100,000 mobs
+Muckinator 3=Muckinator 3
+Kill 10,000 mobs=ฆ่า 10,000 mobs
+Muckinator 2=Muckinator 2
+Kill 1,000 mobs=ฆ่า 1,000 mobs
+Muckinator=เครื่องราง
+Kill 100 mobs=ฆ่า 100 mobs
+The Black Swordsman=ดาบสีดำ
+Wield the Night Blade=ใช้ใบมีดกลางคืน
+That's not very milk of you, sir=นั่นไม่ใช่นมของคุณมากครับ
+Kill 250 cows=ฆ่าวัว 250 ตัว
+Team player=ทีมผู้เล่น
+Revive a teammate=ฟื้นฟูเพื่อนร่วมทีม
+Sweat and tears=เหงื่อและน้ำตา
+Beat the game with 8 players, but no one can take any damage (Normal diff or harder)=เอาชนะเกมด้วยผู้เล่น 8 คน แต่ไม่มีใครสามารถสร้างความเสียหายได้ (ปกติหรือยากขึ้น)
+Speedrunner=speedrunner
+Beat the game in less than 8 days=เอาชนะเกมในเวลาไม่ถึง 8 วัน
+Set sail=ออกเดินทาง
+Leave Muck=ทิ้งโคลน
+Salty=เค็ม
+Kill a friend on Survival Mode=ฆ่าเพื่อนในโหมดการอยู่รอด
+Public Enemy=ศัตรู
+Kill 100 Woodmen=ฆ่า 100 woodmen
+You're a fish=คุณเป็นปลา
+Swim 25km=ว่ายน้ำ 25km
+What the muck=อะไรคือโคลน
+Beat the game without any players picking up a powerup=เอาชนะเกมโดยไม่มีผู้เล่นใด ๆ
+Untouchable=ไม่สามารถแตะต้องได้
+Beat the game alone without taking any damage (Normal difficulty or harder)=เอาชนะเกมเพียงอย่างเดียวโดยไม่ได้รับความเสียหายใด ๆ (ความยากปกติหรือยากขึ้น)
+Underdog=ผู้ที่ตกอับ
+Kill 250 buff mobs=ฆ่า 250 buff mobs
+Treasure Hunter=นักล่าสมบัติ
+Open 500 chests=เปิด 500 หีบ
+This is fine=นี่เป็นเรื่องปกติ
+Die 25 times=ตาย 25 ครั้ง
+The red plumber man lied=ชายช่างประปาสีแดงโกหก
+Eat 50 red shrooms without growing bigger=กิน 50 shrooms สีแดงโดยไม่โตขึ้น
+The bois=Bois
+Beat the game with 4 players, but no one can take any damage (Normal diff or harder)=เอาชนะเกมด้วยผู้เล่น 4 คน แต่ไม่มีใครสามารถสร้างความเสียหายได้ (ปกติหรือยากขึ้น)
+Drown=จมน้ำ
+You're not a fish=คุณไม่ใช่ปลา
+Dark oak=ไม้โอ๊คมืด
+Orange Juice\n<size\=75%>+Attack speed=น้ำส้ม\n<size\=75%>+ความเร็วในการโจมตี
+\n<color\=#A5FCFF>SUPANAT_hub: Picked up <color\=white>(Orange Juice)<color\=white>=\n<color\=#A5FCFF>SUPANAT_hub: หยิบขึ้นมา <color\=white>(น้ำส้ม)<color\=white>
+Unlocked Red Apple=แอปเปิ้ลสีแดงปลดล็อค
+1x Red Apple=แอปเปิ้ลสีแดง 1x
+6x Coin=เหรียญ 6x
+Unlocked Raw Meat=ปลดล็อคเนื้อดิบ
+1x Raw Meat=เนื้อดิบ 1x
+Unlocked Cooked Meat=ปลดล็อคเนื้อสุก
+2x Raw Meat=เนื้อดิบ 2x
+Raw Meat\n<size\=50%><i>yummy=ของสดของคาว\n<size\=50%><i>อร่อย
+Coin\n<size\=50%><i>shiny=เหรียญ\n<size\=50%><i>มันวาว
+Red Apple\n<size\=50%><i>Red and shiny=แอปเปิ้ลแดง\n<size\=50%><i>สีแดงและเงางาม
+Chest<size\=60%>\nWood - 20\nRock - 10=กล่อง<size\=60%>\nไม้ - 20\nร็อค - 10
+Bark<size\=60%>\nWood - 5=ก้าน<size\=60%>\nไม้ - 5
+Wood Axe<size\=60%>\nWood - 5\nBark - 5=ขวานไม้<size\=60%>\nไม้ - 5\nเปลือกไม้ - 5
+3x Coin=เหรียญ 3x
+Start battle=เริ่มการต่อสู้
+8x Coin=เหรียญ 8x
+\n<color\=#A5FCFF>SUPANAT_hub: หยิบขึ้นมา <color\=white>(น้ำส้ม)<color\=white>\n<color\=#A5FCFF>SUPANAT_hub: Picked up <color\=white>(Broccoli)<color\=white>=\n<color\=#A5FCFF>SUPANAT_hub: หยิบขึ้นมา <color\=white>(น้ำส้ม)<color\=white>\n<color\=#A5FCFF>SUPANAT_hub: หยิบขึ้นมา <color\=white>(บร็อคโคลี)<color\=white>
+Broccoli\n<size\=75%>+Health regeneration=บร็อคโคลี\n<size\=75%>+การฟื้นฟูสุขภาพ
+Apple Pie\n<size\=50%><i>pie with apple=พายแอปเปิล\n<size\=50%><i>พายกับแอปเปิ้ล
+Unlocked Apple Pie=แอปเปิ้ลที่ปลดล็อค
+1x Apple Pie=พายแอปเปิ้ล 1x
+12x Rock=หิน 12x
+Unlocked Meat Soup=ซุปเนื้อปลดล็อค
+\n<color\=#A5FCFF>SUPANAT_hub: หยิบขึ้นมา <color\=white>(น้ำส้ม)<color\=white>\n<color\=#A5FCFF>SUPANAT_hub: หยิบขึ้นมา <color\=white>(บร็อคโคลี)<color\=white>\n<color\=#A5FCFF>SUPANAT_hub: Picked up <color\=white>(Spooo Bean)<color\=white>=\n<color\=#A5FCFF>SUPANAT_hub: หยิบขึ้นมา <color\=white>(น้ำส้ม)<color\=white>\n<color\=#A5FCFF>SUPANAT_hub: หยิบขึ้นมา <color\=white>(บร็อคโคลี)<color\=white>\n<color\=#A5FCFF>SUPANAT_hub: หยิบขึ้นมา <color\=white>(Spooo Bean)<color\=white>
+Spooo Bean\n<size\=75%>Hunger drains slower=ถั่วสปูโอ\n<size\=75%>ท่อระบายความหิวช้าลง
+Cooked Meat\n<size\=50%><i>yummy=เนื้อสุก\n<size\=50%><i>อร่อย
+8x Cooked Meat=เนื้อสุก 8x
+4x Coin=เหรียญ 4x
+Wood stairs<size\=60%>\nWood - 2=บันไดไม้<size\=60%>\nไม้ - 2
+Wood Roof<size\=60%>\nWood - 2=หลังคาไม้<size\=60%>\nไม้ - 2
+Wood Pole<size\=60%>\nWood - 2=เสาไม้<size\=60%>\nไม้ - 2
+1920 x 1080 @ 60Hz=1920 x 1080 @ 60Hz
+1680 x 1050 @ 60Hz=1680 x 1050 @ 60Hz
+1280 x 1024 @ 60Hz=1280 x 1024 @ 60Hz
+1360 x 768 @ 60Hz=1360 x 768 @ 60Hz
+1366 x 768 @ 60Hz=1366 x 768 @ 60Hz
+Sugon Shroom\n<size\=50%>(Press "E" to pickup=Sugon Shroom\n<size\=50%>(กด "E" เพื่อรับ)
+13x Wood=ไม้ 13x
+6x Wood=ไม้ 6x
+12x Wood=ไม้ 12x
+Wood Axe\n<size\=50%><i>its axe=ขวานไม้\n<size\=50%><i>ขวานของมัน
+11x Birch Wood=ไม้เบิร์ช 11x
+Unlocked Birch Wood=ไม้เบิร์ชที่ปลดล็อค
+Peanut Butter\n<size\=75%>+Stamina=เนยถั่ว\n<size\=75%>+ความแข็งแกร่ง
+\n<color\=#A5FCFF>SUPANAT_hub: Picked up <color\=white>(Peanut Butter)<color\=white>=\n<color\=#A5FCFF>SUPANAT_hub: หยิบขึ้นมา <color\=white>(เนยถั่ว)<color\=white>
+10x Wood=ไม้ 10x
+6x Rock=หิน 6x
+Unlocked Fletching Table=โต๊ะ fletching ที่ปลดล็อค
+\n<color\=#A5FCFF>SUPANAT_hub: หยิบขึ้นมา <color\=white>(เนยถั่ว)<color\=white>\n<color\=orange>SUPANAT_hub received rare drop: <color\=red>Ancient Bone=\n<color\=#A5FCFF>SUPANAT_hub: หยิบขึ้นมา <color\=white>(เนยถั่ว)<color\=white>\n<color\=orange>Supanat_hub ได้รับการลดลงที่หายาก: <color\=red>กระดูกโบราณ
+Unlocked Ancient Bone=ปลดล็อคกระดูกโบราณ
+1x Ancient Bone=กระดูกโบราณ 1x
+\n<color\=#A5FCFF>SUPANAT_hub: หยิบขึ้นมา <color\=white>(เนยถั่ว)<color\=white>\n<color\=orange>Supanat_hub ได้รับการลดลงที่หายาก: <color\=red>กระดูกโบราณ\n<color\=#A5FCFF>SUPANAT_hub: Picked up <color\=#00C0FF>(Bulldozer)<color\=white>=\n<color\=#A5FCFF>SUPANAT_hub: หยิบขึ้นมา <color\=white>(เนยถั่ว)<color\=white>\n<color\=orange>Supanat_hub ได้รับการลดลงที่หายาก: <color\=red>กระดูกโบราณ\n<color\=#A5FCFF>SUPANAT_hub: หยิบขึ้นมา <color\=#00C0FF>(Bulldozer)<color\=white>
+Bulldozer\n<size\=75%>Chance to knock back enemies=รถปราบดิน\n<size\=75%>โอกาสที่จะเคาะศัตรูกลับ
+Iron=เหล็ก
+Unlocked Iron Ore=แร่เหล็กปลดล็อค
+5x Iron Ore=แร่เหล็ก 5x
+1x Coal=ถ่านหิน 1x
+10x Iron Ore=แร่เหล็ก 10x
+Adamantite=ยืนกราน
+8x Rock=หิน 8x
+Ligon Shroom\n<size\=50%>(Press "E" to pickup=Ligon Shroom\n<size\=50%>(กด "E" เพื่อรับ)
+Iron Ore\n<size\=50%><i>its hard rock=แร่เหล็ก\n<size\=50%><i>ฮาร์ดร็อค
+Bring back your homies=นำบ้านของคุณกลับมา
+Respawn Totem=Respawn Totem
+Unlocked Sugon Shroom=ปลดล็อค sugon shroom
+1x Sugon Shroom=1x sugon shroom
+Unlocked Ligon Shroom=ปลดล็อค Ligon Shroom
+1x Ligon Shroom=1x Ligon Shroom
+4x Coal=ถ่านหิน 4x
+Unlocked Purple Soup=ปลดล็อคซุปสีม่วง
+3x Cooked Meat=เนื้อปรุงสุก 3x
+Unlocked Yellow Soup=ซุปสีเหลืองปลดล็อค
+Birch Wood\n<size\=50%><i>its bitch wood=ไม้เบิร์ช\n<size\=50%><i>ไม้เลวของมัน
+Torch<size\=60%>\nWood - 2\nCoal - 1=คบเพลิง<size\=60%>\nไม้ - 2\nถ่านหิน - 1
+Fletching Table<size\=60%>\nBirch Wood - 25\nFlint - 10=โต๊ะ fletching<size\=60%>\nไม้เบิร์ช - 25 ฟลินท์ - 10
+Red Soup\n<size\=50%><i>Looks spicy=ซุปแดง\n<size\=50%><i>ดูเผ็ด
+1x Wood=ไม้ 1x
+Wood Pickaxe\n<size\=50%><i>its pickaxe=ไม้ลวก\n<size\=50%><i>pickaxe ของมัน
+Furnace=เตาเผา
+Furnace\n<size\=50%>(Someone is already using it..)=เตาเผา\n<size\=50%>(มีคนใช้อยู่แล้ว .. )
+\n<color\=#A5FCFF>SUPANAT_hub: หยิบขึ้นมา <color\=white>(เนยถั่ว)<color\=white>\n<color\=orange>Supanat_hub ได้รับการลดลงที่หายาก: <color\=red>กระดูกโบราณ\n<color\=#A5FCFF>SUPANAT_hub: หยิบขึ้นมา <color\=#00C0FF>(Bulldozer)<color\=white>\n<color\=#A5FCFF>SUPANAT_hub: หยิบขึ้นมา <color\=white>(รองเท้าผ้าใบ)<color\=white>\n<color\=#A5FCFF>SUPANAT_hub: Picked up <color\=white>(Robin Hood Hat)<color\=white>=\n<color\=#A5FCFF>SUPANAT_hub: หยิบขึ้นมา <color\=white>(เนยถั่ว)<color\=white>\n<color\=orange>Supanat_hub ได้รับการลดลงที่หายาก: <color\=red>กระดูกโบราณ\n<color\=#A5FCFF>SUPANAT_hub: หยิบขึ้นมา <color\=#00C0FF>(Bulldozer)<color\=white>\n<color\=#A5FCFF>SUPANAT_hub: หยิบขึ้นมา <color\=white>(รองเท้าผ้าใบ)<color\=white>\n<color\=#A5FCFF>SUPANAT_hub: หยิบขึ้นมา <color\=white>(หมวก Robin Hood)<color\=white>
+Robin Hood Hat\n<size\=75%>Increased draw speed, arrows speed & damage=หมวก Robin Hood\n<size\=75%>เพิ่มความเร็วในการวาดความเร็วลูกศรและความเสียหาย
+Ancient Bone\n<size\=50%><i>oof owie my bones=กระดูกโบราณ\n<size\=50%><i>oof owie กระดูกของฉัน
+3x Rock=หิน 3x
+2x Flint=2x Flint
+20x Coin=เหรียญ 20x
+5x Flint=5x Flint
+\n<color\=#A5FCFF>SUPANAT_hub: หยิบขึ้นมา <color\=white>(เนยถั่ว)<color\=white>\n<color\=orange>Supanat_hub ได้รับการลดลงที่หายาก: <color\=red>กระดูกโบราณ\n<color\=#A5FCFF>SUPANAT_hub: หยิบขึ้นมา <color\=#00C0FF>(Bulldozer)<color\=white>\n<color\=#A5FCFF>SUPANAT_hub: หยิบขึ้นมา <color\=white>(รองเท้าผ้าใบ)<color\=white>\n<color\=#A5FCFF>SUPANAT_hub: หยิบขึ้นมา <color\=white>(หมวก Robin Hood)<color\=white>\n<color\=#A5FCFF>SUPANAT_hub: Picked up <color\=white>(Blue Pill)<color\=white>=\n<color\=#A5FCFF>SUPANAT_hub: หยิบขึ้นมา <color\=white>(เนยถั่ว)<color\=white>\n<color\=orange>Supanat_hub ได้รับการลดลงที่หายาก: <color\=red>กระดูกโบราณ\n<color\=#A5FCFF>SUPANAT_hub: หยิบขึ้นมา <color\=#00C0FF>(Bulldozer)<color\=white>\n<color\=#A5FCFF>SUPANAT_hub: หยิบขึ้นมา <color\=white>(รองเท้าผ้าใบ)<color\=white>\n<color\=#A5FCFF>SUPANAT_hub: หยิบขึ้นมา <color\=white>(หมวก Robin Hood)<color\=white>\n<color\=#A5FCFF>SUPANAT_hub: หยิบขึ้นมา <color\=white>(ยาเม็ดสีน้ำเงิน)<color\=white>
+Blue Pill\n<size\=75%>Increase shield capacity=ยาเม็ดสีฟ้า\n<size\=75%>เพิ่มกำลังการผลิตโล่
+2x Rock=หิน 2x
+3x Flint=3x Flint
+Flax\n<size\=50%>(Press "E" to pickup=แฟลกซ์\n<size\=50%>(กด "E" เพื่อรับ)
+11x Rock=หิน 11x
+13x Rock=หิน 13x
+11x Wood=ไม้ 11x
+Unlocked Iron bar=บาร์เหล็กปลดล็อค
+15x Iron bar=บาร์เหล็ก 15x
+Unlocked Anvil=ปลดล็อคทั่ง
+Unlocked Steel Axe=ขวานเหล็กปลดล็อค
+Unlocked Steel Pickaxe=Pickaxe เหล็กปลดล็อค
+Anvil<size\=60%>\nIron bar - 5\nRock - 15=ทั่ง<size\=60%>\nIron Bar - 5 Rock - 15
+Unlocked Steel Boots=รองเท้าสตีลที่ปลดล็อค
+Weapons=อาวุธ
+Armor=เกราะ
+Anvil\n<size\=50%>(Press "E" to use)=ทั่ง\n<size\=50%>(กด "E" เพื่อใช้)
+Armor (S)=ชุดเกราะ
+Other=อื่น
+Smithing=การทำหลอม
+Unlocked Steel Helmet=หมวกกันน็อคเหล็กที่ปลดล็อค
+Steel Sword<size\=60%>\nIron bar - 7\nBirch Wood - 5=ดาบเหล็ก<size\=60%>\nเหล็กบาร์ - 7 ไม้เบิร์ช - 5
+Unlocked Steel Pants=กางเกงเหล็กปลดล็อค
+Unlocked Steel Chestplate=แผ่นเหล็กที่ปลดล็อค
+Unlocked Steel Sword=ดาบเหล็กที่ปลดล็อค
+Unlocked milk=นมปลดล็อค
+Wood Doorway<size\=60%>\nWood - 2=ประตูไม้<size\=60%>\nไม้ - 2
+Torch\n<size\=50%><i>fire wosh=คบเพลิง\n<size\=50%><i>ดับไฟ
+Torch=คบเพลิง
+\n<color\=#A5FCFF>SUPANAT_hub: หยิบขึ้นมา <color\=white>(เนยถั่ว)<color\=white>\n<color\=orange>Supanat_hub ได้รับการลดลงที่หายาก: <color\=red>กระดูกโบราณ\n<color\=#A5FCFF>SUPANAT_hub: หยิบขึ้นมา <color\=#00C0FF>(Bulldozer)<color\=white>\n<color\=#A5FCFF>SUPANAT_hub: หยิบขึ้นมา <color\=white>(รองเท้าผ้าใบ)<color\=white>\n<color\=#A5FCFF>SUPANAT_hub: หยิบขึ้นมา <color\=white>(หมวก Robin Hood)<color\=white>\n<color\=#A5FCFF>SUPANAT_hub: หยิบขึ้นมา <color\=white>(ยาเม็ดสีน้ำเงิน)<color\=white>\n<color\=#A5FCFF>SUPANAT_hub: Picked up <color\=#00C0FF>(Juice)<color\=white>=\n<color\=#A5FCFF>SUPANAT_hub: หยิบขึ้นมา <color\=white>(เนยถั่ว)<color\=white>\n<color\=orange>Supanat_hub ได้รับการลดลงที่หายาก: <color\=red>กระดูกโบราณ\n<color\=#A5FCFF>SUPANAT_hub: หยิบขึ้นมา <color\=#00C0FF>(Bulldozer)<color\=white>\n<color\=#A5FCFF>SUPANAT_hub: หยิบขึ้นมา <color\=white>(รองเท้าผ้าใบ)<color\=white>\n<color\=#A5FCFF>SUPANAT_hub: หยิบขึ้นมา <color\=white>(หมวก Robin Hood)<color\=white>\n<color\=#A5FCFF>SUPANAT_hub: หยิบขึ้นมา <color\=white>(ยาเม็ดสีน้ำเงิน)<color\=white>\n<color\=#A5FCFF>SUPANAT_hub: หยิบขึ้นมา <color\=#00C0FF>(น้ำผลไม้)<color\=white>
+Juice\n<size\=75%>Get juiced up when landing a crit=น้ำผลไม้\n<size\=75%>รับน้ำผลไม้เมื่อลงจอด
+\n<color\=#A5FCFF>SUPANAT_hub: หยิบขึ้นมา <color\=white>(เนยถั่ว)<color\=white>\n<color\=orange>Supanat_hub ได้รับการลดลงที่หายาก: <color\=red>กระดูกโบราณ\n<color\=#A5FCFF>SUPANAT_hub: หยิบขึ้นมา <color\=#00C0FF>(Bulldozer)<color\=white>\n<color\=#A5FCFF>SUPANAT_hub: หยิบขึ้นมา <color\=white>(รองเท้าผ้าใบ)<color\=white>\n<color\=#A5FCFF>SUPANAT_hub: หยิบขึ้นมา <color\=white>(หมวก Robin Hood)<color\=white>\n<color\=#A5FCFF>SUPANAT_hub: หยิบขึ้นมา <color\=white>(ยาเม็ดสีน้ำเงิน)<color\=white>\n<color\=#A5FCFF>SUPANAT_hub: หยิบขึ้นมา <color\=#00C0FF>(น้ำผลไม้)<color\=white>\n<color\=#A5FCFF>SUPANAT_hub: หยิบขึ้นมา <color\=white>(ยาเม็ดสีน้ำเงิน)<color\=white>\n<color\=#A5FCFF>SUPANAT_hub: sdfsl=\n<color\=#A5FCFF>SUPANAT_hub: หยิบขึ้นมา <color\=white>(เนยถั่ว)<color\=white>\n<color\=orange>Supanat_hub ได้รับการลดลงที่หายาก: <color\=red>กระดูกโบราณ\n<color\=#A5FCFF>SUPANAT_hub: หยิบขึ้นมา <color\=#00C0FF>(Bulldozer)<color\=white>\n<color\=#A5FCFF>SUPANAT_hub: หยิบขึ้นมา <color\=white>(รองเท้าผ้าใบ)<color\=white>\n<color\=#A5FCFF>SUPANAT_hub: หยิบขึ้นมา <color\=white>(หมวก Robin Hood)<color\=white>\n<color\=#A5FCFF>SUPANAT_hub: หยิบขึ้นมา <color\=white>(ยาเม็ดสีน้ำเงิน)<color\=white>\n<color\=#A5FCFF>SUPANAT_hub: หยิบขึ้นมา <color\=#00C0FF>(น้ำผลไม้)<color\=white>\n<color\=#A5FCFF>SUPANAT_hub: หยิบขึ้นมา <color\=white>(ยาเม็ดสีน้ำเงิน)<color\=white>\n<color\=#A5FCFF>supanat_hub: sdfsl
+Purple Soup\n<size\=50%><i>Looks like a fast soup=ซุปสีม่วง\n<size\=50%><i>ดูเหมือนซุปเร็ว
+2x Purple Soup=ซุปสีม่วง 2x
+Iron bar\n<size\=50%><i>block of iron=บาร์เหล็ก\n<size\=50%><i>บล็อกของเหล็ก
+Flint\n<size\=50%><i>its rock but make fire=หินเหล็กไฟ\n<size\=50%><i>หินของมัน แต่ทำไฟ
+12x Iron Ore=แร่เหล็ก 12x
+14x Iron Ore=แร่เหล็ก 14x
+15x Iron Ore=แร่เหล็ก 15x
+2x Wood=ไม้ 2x
+8x Birch Wood=ไม้เบิร์ช 8x
+11x Coin=เหรียญ 11x
+Steel Axe<size\=60%>\nIron bar - 5\nBark - 5\nBirch Wood - 10=ขวานเหล็ก<size\=60%>\nIron Bar - 5 Bark - 5 Birch Wood - 10
+Steel Helmet<size\=60%>\nIron bar - 5=หมวกเหล็ก<size\=60%>\nเหล็กบาร์ - 5
+Steel Pickaxe<size\=60%>\nIron bar - 5\nBark - 5\nBirch Wood - 10=เหล็ก<size\=60%>\nIron Bar - 5 Bark - 5 Birch Wood - 10
+13x Cooked Meat=เนื้อสัตว์ปรุงสุก 13x
+\n<color\=#A5FCFF>SUPANAT_hub: หยิบขึ้นมา <color\=white>(เนยถั่ว)<color\=white>\n<color\=orange>Supanat_hub ได้รับการลดลงที่หายาก: <color\=red>กระดูกโบราณ\n<color\=#A5FCFF>SUPANAT_hub: หยิบขึ้นมา <color\=#00C0FF>(Bulldozer)<color\=white>\n<color\=#A5FCFF>SUPANAT_hub: หยิบขึ้นมา <color\=white>(รองเท้าผ้าใบ)<color\=white>\n<color\=#A5FCFF>SUPANAT_hub: หยิบขึ้นมา <color\=white>(หมวก Robin Hood)<color\=white>\n<color\=#A5FCFF>SUPANAT_hub: หยิบขึ้นมา <color\=white>(ยาเม็ดสีน้ำเงิน)<color\=white>\n<color\=#A5FCFF>SUPANAT_hub: หยิบขึ้นมา <color\=#00C0FF>(น้ำผลไม้)<color\=white>\n<color\=#A5FCFF>SUPANAT_hub: หยิบขึ้นมา <color\=white>(ยาเม็ดสีน้ำเงิน)<color\=white>\n<color\=#A5FCFF>supanat_hub: sdfsl\n<color\=#00FFFF>Seed: 540451986 (copied to clipboard)<color\=white>=\n<color\=#A5FCFF>SUPANAT_hub: หยิบขึ้นมา <color\=white>(เนยถั่ว)<color\=white>\n<color\=orange>Supanat_hub ได้รับการลดลงที่หายาก: <color\=red>กระดูกโบราณ\n<color\=#A5FCFF>SUPANAT_hub: หยิบขึ้นมา <color\=#00C0FF>(Bulldozer)<color\=white>\n<color\=#A5FCFF>SUPANAT_hub: หยิบขึ้นมา <color\=white>(รองเท้าผ้าใบ)<color\=white>\n<color\=#A5FCFF>SUPANAT_hub: หยิบขึ้นมา <color\=white>(หมวก Robin Hood)<color\=white>\n<color\=#A5FCFF>SUPANAT_hub: หยิบขึ้นมา <color\=white>(ยาเม็ดสีน้ำเงิน)<color\=white>\n<color\=#A5FCFF>SUPANAT_hub: หยิบขึ้นมา <color\=#00C0FF>(น้ำผลไม้)<color\=white>\n<color\=#A5FCFF>SUPANAT_hub: หยิบขึ้นมา <color\=white>(ยาเม็ดสีน้ำเงิน)<color\=white>\n<color\=#A5FCFF>supanat_hub: sdfsl\n<color\=#00FFFF>เมล็ดพันธุ์: 540451986 (คัดลอกไปยังคลิปบอร์ด)<color\=white>
+Gold=ทอง
+: หยิบขึ้นมา <color\=white>(ยาเม็ดสีน้ำเงิน)<color\=white>\n<color\=#A5FCFF>SUPANAT_hub: หยิบขึ้นมา <color\=#00C0FF>(น้ำผลไม้)<color\=white>\n<color\=#A5FCFF>SUPANAT_hub: หยิบขึ้นมา <color\=white>(ยาเม็ดสีน้ำเงิน)<color\=white>\n<color\=#A5FCFF>supanat_hub: sdfsl\n<color\=#00FFFF>เมล็ดพันธุ์: 540451986 (คัดลอกไปยังคลิปบอร์ด)<color\=white>\n<color\=#A5FCFF>SUPANAT_hub: หยิบขึ้นมา <color\=white>(เนยถั่ว)<color\=white>\n<color\=#A5FCFF>SUPANAT_hub: ,,,,=: หยิบขึ้นมา <color\=white>(ยาเม็ดสีน้ำเงิน)<color\=white>\n<color\=#A5FCFF>SUPANAT_hub: หยิบขึ้นมา <color\=#00C0FF>(น้ำผลไม้)<color\=white>\n<color\=#A5FCFF>SUPANAT_hub: หยิบขึ้นมา <color\=white>(ยาเม็ดสีน้ำเงิน)<color\=white>\n<color\=#A5FCFF>supanat_hub: sdfsl\n<color\=#00FFFF>เมล็ดพันธุ์: 540451986 (คัดลอกไปยังคลิปบอร์ด)<color\=white>\n<color\=#A5FCFF>SUPANAT_hub: หยิบขึ้นมา <color\=white>(เนยถั่ว)<color\=white>\n<color\=#A5FCFF>supanat_hub: ,,,,
+AT_hub: ,,,,\n<color\=#A5FCFF>SUPANAT_hub: ,d\n<color\=#A5FCFF>SUPANAT_hub: da,a\n<color\=#A5FCFF>SUPANAT_hub: a,d\n<color\=#A5FCFF>SUPANAT_hub: a,d\n<color\=#A5FCFF>SUPANAT_hub: ,e\n<color\=#A5FCFF>SUPANAT_hub: sa\n<color\=#A5FCFF>SUPANAT_hub: ,f\n<color\=#A5FCFF>SUPANAT_hub: wae,f\n<color\=#A5FCFF>SUPANAT_hub: sa,df\n<color\=#A5FCFF>SUPANAT_hub: df,\n<color\=#A5FCFF>SUPANAT_hub: sa,df\n<color\=#A5FCFF>SUPANAT_hub: f,sa\n<color\=#A5FCFF>SUPANAT_hub: sdf,\n<color\=#A5FCFF>SUPANAT_hub: s,df\n<color\=#A5FCFF>SUPANAT_hub: df,as\n<color\=#A5FCFF>SUPANAT_hub: sad,f\n<color\=#A5FCFF>SUPANAT_hub: as,fd\n<color\=#A5FCFF>SUPANAT_hub: ,as\n<color\=#A5FCFF>SUPANAT_hub: sadf,\n<color\=#A5FCFF>SUPANAT_hub: s,adf\n<color\=#A5FCFF>SUPANAT_hub: ,as\n<color\=#A5FCFF>SUPANAT_hub: asdf,=at_hub: ,,,,\n<color\=#A5FCFF>supanat_hub:, D\n<color\=#A5FCFF>supanat_hub: da, a\n<color\=#A5FCFF>supanat_hub: a, d\n<color\=#A5FCFF>supanat_hub: a, d\n<color\=#A5FCFF>supanat_hub:, e\n<color\=#A5FCFF>supanat_hub: SA\n<color\=#A5FCFF>supanat_hub :, f\n<color\=#A5FCFF>supanat_hub: wae, f\n<color\=#A5FCFF>supanat_hub: SA, DF\n<color\=#A5FCFF>supanat_hub: df,\n<color\=#A5FCFF>supanat_hub: SA, DF\n<color\=#A5FCFF>supanat_hub: f, sa\n<color\=#A5FCFF>supanat_hub: sdf,\n<color\=#A5FCFF>supanat_hub: s, df\n<color\=#A5FCFF>supanat_hub: df, as\n<color\=#A5FCFF>supanat_hub: เศร้า, F\n<color\=#A5FCFF>Supanat_hub: As, FD\n<color\=#A5FCFF>supanat_hub:, AS\n<color\=#A5FCFF>supanat_hub: sadf,\n<color\=#A5FCFF>supanat_hub: s, adf\n<color\=#A5FCFF>supanat_hub:, AS\n<color\=#A5FCFF>supanat_hub: ASDF,
+Unlocked Wolfskin=ปลดล็อค Wolfskin
+2x Wolfskin=2x Wolfskin
+3x Wolfskin=3x Wolfskin
+at_hub: sdf,\n<color\=#A5FCFF>supanat_hub: s, df\n<color\=#A5FCFF>supanat_hub: df, as\n<color\=#A5FCFF>supanat_hub: เศร้า, F\n<color\=#A5FCFF>Supanat_hub: As, FD\n<color\=#A5FCFF>supanat_hub:, AS\n<color\=#A5FCFF>supanat_hub: sadf,\n<color\=#A5FCFF>supanat_hub: s, adf\n<color\=#A5FCFF>supanat_hub:, AS\n<color\=#A5FCFF>supanat_hub: ASDF,\n<color\=#A5FCFF>SUPANAT_hub: Picked up <color\=white>(Peanut Butter)<color\=white>=AT_HUB: SDF,\n<color\=#A5FCFF>supanat_hub: s, df\n<color\=#A5FCFF>supanat_hub: df, as\n<color\=#A5FCFF>supanat_hub: เศร้า, F\n<color\=#A5FCFF>Supanat_hub: As, FD\n<color\=#A5FCFF>supanat_hub:, AS\n<color\=#A5FCFF>supanat_hub: sadf,\n<color\=#A5FCFF>supanat_hub: s, adf\n<color\=#A5FCFF>supanat_hub:, AS\n<color\=#A5FCFF>supanat_hub: ASDF,\n<color\=#A5FCFF>SUPANAT_hub: หยิบขึ้นมา <color\=white>(เนยถั่ว)<color\=white>
+AT_HUB: SDF,\n<color\=#A5FCFF>supanat_hub: s, df\n<color\=#A5FCFF>supanat_hub: df, as\n<color\=#A5FCFF>supanat_hub: เศร้า, F\n<color\=#A5FCFF>Supanat_hub: As, FD\n<color\=#A5FCFF>supanat_hub:, AS\n<color\=#A5FCFF>supanat_hub: sadf,\n<color\=#A5FCFF>supanat_hub: s, adf\n<color\=#A5FCFF>supanat_hub:, AS\n<color\=#A5FCFF>supanat_hub: ASDF,\n<color\=#A5FCFF>SUPANAT_hub: หยิบขึ้นมา <color\=white>(เนยถั่ว)<color\=white>\n<color\=#A5FCFF>SUPANAT_hub: หยิบขึ้นมา <color\=white>(ยาเม็ดสีน้ำเงิน)<color\=white>\n<color\=#A5FCFF>SUPANAT_hub: หยิบขึ้นมา <color\=white>(รองเท้าผ้าใบ)<color\=white>\n<color\=#A5FCFF>SUPANAT_hub: Picked up <color\=white>(Dumbbell)<color\=white>=AT_HUB: SDF,\n<color\=#A5FCFF>supanat_hub: s, df\n<color\=#A5FCFF>supanat_hub: df, as\n<color\=#A5FCFF>supanat_hub: เศร้า, F\n<color\=#A5FCFF>Supanat_hub: As, FD\n<color\=#A5FCFF>supanat_hub:, AS\n<color\=#A5FCFF>supanat_hub: sadf,\n<color\=#A5FCFF>supanat_hub: s, adf\n<color\=#A5FCFF>supanat_hub:, AS\n<color\=#A5FCFF>supanat_hub: ASDF,\n<color\=#A5FCFF>SUPANAT_hub: หยิบขึ้นมา <color\=white>(เนยถั่ว)<color\=white>\n<color\=#A5FCFF>SUPANAT_hub: หยิบขึ้นมา <color\=white>(ยาเม็ดสีน้ำเงิน)<color\=white>\n<color\=#A5FCFF>SUPANAT_hub: หยิบขึ้นมา <color\=white>(รองเท้าผ้าใบ)<color\=white>\n<color\=#A5FCFF>SUPANAT_hub: หยิบขึ้นมา <color\=white>(ดัมเบล)<color\=white>
+Dumbbell\n<size\=75%>+Base strength=ดัมเบล\n<size\=75%>+ความแข็งแรงฐาน
+Looters hut=Looters Hut
+ดสีน้ำเงิน)<color\=white>\n<color\=#A5FCFF>SUPANAT_hub: หยิบขึ้นมา <color\=white>(รองเท้าผ้าใบ)<color\=white>\n<color\=#A5FCFF>SUPANAT_hub: หยิบขึ้นมา <color\=white>(ดัมเบล)<color\=white>\n<color\=#A5FCFF>SUPANAT_hub: หยิบขึ้นมา <color\=white>(น้ำส้ม)<color\=white>\n<color\=#A5FCFF>SUPANAT_hub: หยิบขึ้นมา <color\=white>(ดัมเบล)<color\=white>\n<color\=#A5FCFF>SUPANAT_hub: หยิบขึ้นมา <color\=white>(น้ำส้ม)<color\=white>\n<color\=#A5FCFF>SUPANAT_hub: Picked up <color\=orange>(Knuts Hammer)<color\=white>=ดสีน้ำเงิน)<color\=white>\n<color\=#A5FCFF>SUPANAT_hub: หยิบขึ้นมา <color\=white>(รองเท้าผ้าใบ)<color\=white>\n<color\=#A5FCFF>SUPANAT_hub: หยิบขึ้นมา <color\=white>(ดัมเบล)<color\=white>\n<color\=#A5FCFF>SUPANAT_hub: หยิบขึ้นมา <color\=white>(น้ำส้ม)<color\=white>\n<color\=#A5FCFF>SUPANAT_hub: หยิบขึ้นมา <color\=white>(ดัมเบล)<color\=white>\n<color\=#A5FCFF>SUPANAT_hub: หยิบขึ้นมา <color\=white>(น้ำส้ม)<color\=white>\n<color\=#A5FCFF>SUPANAT_hub: หยิบขึ้นมา <color\=orange>(Knuts Hammer)<color\=white>
+Knuts Hammer\n<size\=75%>And his hammer was electric=Knuts Hammer\n<size\=75%>และค้อนของเขาคือไฟฟ้า
+ดสีน้ำเงิน)<color\=white>\n<color\=#A5FCFF>SUPANAT_hub: หยิบขึ้นมา <color\=white>(รองเท้าผ้าใบ)<color\=white>\n<color\=#A5FCFF>SUPANAT_hub: หยิบขึ้นมา <color\=white>(ดัมเบล)<color\=white>\n<color\=#A5FCFF>SUPANAT_hub: หยิบขึ้นมา <color\=white>(น้ำส้ม)<color\=white>\n<color\=#A5FCFF>SUPANAT_hub: หยิบขึ้นมา <color\=white>(ดัมเบล)<color\=white>\n<color\=#A5FCFF>SUPANAT_hub: หยิบขึ้นมา <color\=white>(น้ำส้ม)<color\=white>\n<color\=#A5FCFF>SUPANAT_hub: หยิบขึ้นมา <color\=orange>(Knuts Hammer)<color\=white>\n<color\=#A5FCFF>SUPANAT_hub: Picked up <color\=#00C0FF>(Horseshoe)<color\=white>=ดสีน้ำเงิน)<color\=white>\n<color\=#A5FCFF>SUPANAT_hub: หยิบขึ้นมา <color\=white>(รองเท้าผ้าใบ)<color\=white>\n<color\=#A5FCFF>SUPANAT_hub: หยิบขึ้นมา <color\=white>(ดัมเบล)<color\=white>\n<color\=#A5FCFF>SUPANAT_hub: หยิบขึ้นมา <color\=white>(น้ำส้ม)<color\=white>\n<color\=#A5FCFF>SUPANAT_hub: หยิบขึ้นมา <color\=white>(ดัมเบล)<color\=white>\n<color\=#A5FCFF>SUPANAT_hub: หยิบขึ้นมา <color\=white>(น้ำส้ม)<color\=white>\n<color\=#A5FCFF>SUPANAT_hub: หยิบขึ้นมา <color\=orange>(Knuts Hammer)<color\=white>\n<color\=#A5FCFF>SUPANAT_hub: หยิบขึ้นมา <color\=#00C0FF>(เกือกม้า)<color\=white>
+Horseshoe\n<size\=75%>Increased chance to hit a critical strike=เกือกม้า\n<size\=75%>เพิ่มโอกาสในการโจมตีครั้งสำคัญ
+ดสีน้ำเงิน)<color\=white>\n<color\=#A5FCFF>SUPANAT_hub: หยิบขึ้นมา <color\=white>(รองเท้าผ้าใบ)<color\=white>\n<color\=#A5FCFF>SUPANAT_hub: หยิบขึ้นมา <color\=white>(ดัมเบล)<color\=white>\n<color\=#A5FCFF>SUPANAT_hub: หยิบขึ้นมา <color\=white>(น้ำส้ม)<color\=white>\n<color\=#A5FCFF>SUPANAT_hub: หยิบขึ้นมา <color\=white>(ดัมเบล)<color\=white>\n<color\=#A5FCFF>SUPANAT_hub: หยิบขึ้นมา <color\=white>(น้ำส้ม)<color\=white>\n<color\=#A5FCFF>SUPANAT_hub: หยิบขึ้นมา <color\=orange>(Knuts Hammer)<color\=white>\n<color\=#A5FCFF>SUPANAT_hub: หยิบขึ้นมา <color\=#00C0FF>(เกือกม้า)<color\=white>\n<color\=#A5FCFF>SUPANAT_hub: Picked up <color\=#00C0FF>(Danis Milk)<color\=white>=ดสีน้ำเงิน)<color\=white>\n<color\=#A5FCFF>SUPANAT_hub: หยิบขึ้นมา <color\=white>(รองเท้าผ้าใบ)<color\=white>\n<color\=#A5FCFF>SUPANAT_hub: หยิบขึ้นมา <color\=white>(ดัมเบล)<color\=white>\n<color\=#A5FCFF>SUPANAT_hub: หยิบขึ้นมา <color\=white>(น้ำส้ม)<color\=white>\n<color\=#A5FCFF>SUPANAT_hub: หยิบขึ้นมา <color\=white>(ดัมเบล)<color\=white>\n<color\=#A5FCFF>SUPANAT_hub: หยิบขึ้นมา <color\=white>(น้ำส้ม)<color\=white>\n<color\=#A5FCFF>SUPANAT_hub: หยิบขึ้นมา <color\=orange>(Knuts Hammer)<color\=white>\n<color\=#A5FCFF>SUPANAT_hub: หยิบขึ้นมา <color\=#00C0FF>(เกือกม้า)<color\=white>\n<color\=#A5FCFF>SUPANAT_hub: หยิบขึ้นมา <color\=#00C0FF>(Danis Milk)<color\=white>
+Danis Milk\n<size\=75%>Strong bones=Danis Milk\n<size\=75%>กระดูกที่แข็งแรง
+ammer)<color\=white>\n<color\=#A5FCFF>SUPANAT_hub: หยิบขึ้นมา <color\=#00C0FF>(เกือกม้า)<color\=white>\n<color\=#A5FCFF>SUPANAT_hub: หยิบขึ้นมา <color\=#00C0FF>(Danis Milk)<color\=white>\n<color\=#A5FCFF>SUPANAT_hub: หยิบขึ้นมา <color\=white>(น้ำส้ม)<color\=white>\n<color\=#A5FCFF>SUPANAT_hub: หยิบขึ้นมา <color\=white>(เนยถั่ว)<color\=white>\n<color\=#A5FCFF>SUPANAT_hub: หยิบขึ้นมา <color\=white>(ดัมเบล)<color\=white>=Ammer)<color\=white>\n<color\=#A5FCFF>SUPANAT_hub: หยิบขึ้นมา <color\=#00C0FF>(เกือกม้า)<color\=white>\n<color\=#A5FCFF>SUPANAT_hub: หยิบขึ้นมา <color\=#00C0FF>(Danis Milk)<color\=white>\n<color\=#A5FCFF>SUPANAT_hub: หยิบขึ้นมา <color\=white>(น้ำส้ม)<color\=white>\n<color\=#A5FCFF>SUPANAT_hub: หยิบขึ้นมา <color\=white>(เนยถั่ว)<color\=white>\n<color\=#A5FCFF>SUPANAT_hub: หยิบขึ้นมา <color\=white>(ดัมเบล)<color\=white>
+Press E to trade with Smith=กด E เพื่อซื้อขายกับ Smith
+Press E to trade with Archer=กด E เพื่อซื้อขายกับ Archer
+Press E to trade with Woodcutter=กด E เพื่อแลกเปลี่ยนกับ Woodcutter
+Wood Axe (x1)=ขวานไม้ (x1)
+Adamantite Axe (x1)=Adamantite Axe (x1)
+Oak Wood (x5)=ไม้โอ๊ค (x5)
+Wood (x5)=ไม้ (x5)
+Dark Oak Wood (x5)=ไม้โอ๊คสีเข้ม (x5)
+Birch Wood (x5)=ไม้เบิร์ช (x5)
+Woodcutter Trader=ช่างทำไม้
+Sell=ขาย
+Buy=ซื้อ
+Steel Axe (x1)=ขวานเหล็ก (x1)
+Mithril Axe (x1)=Mithril Axe (x1)
+Fir Wood (x5)=ไม้เฟอร์ (x5)
+Coal (x5)=ถ่านหิน (x5)
+Barrel=ถัง
+Log=บันทึก
+Unlocked Bread=ขนมปังปลดล็อค
+4x Bread=ขนมปัง 4x
+9x Iron Ore=แร่เหล็ก 9x
+Ammer)<color\=white>\n<color\=#A5FCFF>SUPANAT_hub: หยิบขึ้นมา <color\=#00C0FF>(เกือกม้า)<color\=white>\n<color\=#A5FCFF>SUPANAT_hub: หยิบขึ้นมา <color\=#00C0FF>(Danis Milk)<color\=white>\n<color\=#A5FCFF>SUPANAT_hub: หยิบขึ้นมา <color\=white>(น้ำส้ม)<color\=white>\n<color\=#A5FCFF>SUPANAT_hub: หยิบขึ้นมา <color\=white>(เนยถั่ว)<color\=white>\n<color\=#A5FCFF>SUPANAT_hub: หยิบขึ้นมา <color\=white>(ดัมเบล)<color\=white>\n<color\=#A5FCFF>SUPANAT_hub: หยิบขึ้นมา <color\=white>(Spooo Bean)<color\=white>\nมีการทำเครื่องหมายบางอย่างบนแผนที่ของคุณ ... ("M" เพื่อเปิดแผนที่)\n<color\=#A5FCFF>SUPANAT_hub: Picked up <color\=white>(Jetpack)<color\=white>=Ammer)<color\=white>\n<color\=#A5FCFF>SUPANAT_hub: หยิบขึ้นมา <color\=#00C0FF>(เกือกม้า)<color\=white>\n<color\=#A5FCFF>SUPANAT_hub: หยิบขึ้นมา <color\=#00C0FF>(Danis Milk)<color\=white>\n<color\=#A5FCFF>SUPANAT_hub: หยิบขึ้นมา <color\=white>(น้ำส้ม)<color\=white>\n<color\=#A5FCFF>SUPANAT_hub: หยิบขึ้นมา <color\=white>(เนยถั่ว)<color\=white>\n<color\=#A5FCFF>SUPANAT_hub: หยิบขึ้นมา <color\=white>(ดัมเบล)<color\=white>\n<color\=#A5FCFF>SUPANAT_hub: หยิบขึ้นมา <color\=white>(Spooo Bean)<color\=white>\nมีทำเครื่องหมายอย่างอย่างบนแผนที่คุณของคุณคุณคุณ\n<color\=#A5FCFF>SUPANAT_hub: หยิบขึ้นมา <color\=white>(Jetpack)<color\=white>
+Jetpack\n<size\=75%>To the moon=เจ็ทแพ็ค\n<size\=75%>ไปยังดวงจันทร์
+Unlocked Gold Ore=ปลดล็อคแร่ทองคำ
+15x Gold Ore=แร่ทองคำ 15 เท่า
+7x Wood Floor=พื้นไม้ 7x
+41x Coin=เหรียญ 41x
+4x Red Apple=แอปเปิ้ลสีแดง 4x
+Steel Sword\n<size\=50%><i>its sharp=ดาบเหล็ก\n<size\=50%><i>มันคมชัด
+6x Raw Meat=เนื้อดิบ 6x
+5x Bread=ขนมปัง 5x
+Dough\n<size\=50%><i>looks yummy=แป้งโด\n<size\=50%><i>ดูน่าอร่อย
+3x Dough=แป้ง 3x
+Unlocked Wheat=ข้าวสาลีปลดล็อค
+13x Wheat=ข้าวสาลี 13x
+Unlocked Dough=แป้งปลดล็อค
+Unlocked Rope=เชือกปลดล็อค
+Unlocked Meat Pie=พายเนื้อปลดล็อค
+Ammer)<color\=white>\n<color\=#A5FCFF>SUPANAT_hub: หยิบขึ้นมา <color\=#00C0FF>(เกือกม้า)<color\=white>\n<color\=#A5FCFF>SUPANAT_hub: หยิบขึ้นมา <color\=#00C0FF>(Danis Milk)<color\=white>\n<color\=#A5FCFF>SUPANAT_hub: หยิบขึ้นมา <color\=white>(น้ำส้ม)<color\=white>\n<color\=#A5FCFF>SUPANAT_hub: หยิบขึ้นมา <color\=white>(เนยถั่ว)<color\=white>\n<color\=#A5FCFF>SUPANAT_hub: หยิบขึ้นมา <color\=white>(ดัมเบล)<color\=white>\n<color\=#A5FCFF>SUPANAT_hub: หยิบขึ้นมา <color\=white>(Spooo Bean)<color\=white>\nมีทำเครื่องหมายอย่างอย่างบนแผนที่คุณของคุณคุณคุณ\n<color\=#A5FCFF>SUPANAT_hub: หยิบขึ้นมา <color\=white>(Jetpack)<color\=white>\n<color\=#A5FCFF>SUPANAT_hub: หยิบขึ้นมา <color\=white>(บร็อคโคลี)<color\=white>\n<color\=#A5FCFF>SUPANAT_hub: Picked up <color\=#00C0FF>(Dracula)<color\=white>=Ammer)<color\=white>\n<color\=#A5FCFF>SUPANAT_hub: หยิบขึ้นมา <color\=#00C0FF>(เกือกม้า)<color\=white>\n<color\=#A5FCFF>SUPANAT_hub: หยิบขึ้นมา <color\=#00C0FF>(Danis Milk)<color\=white>\n<color\=#A5FCFF>SUPANAT_hub: หยิบขึ้นมา <color\=white>(น้ำส้ม)<color\=white>\n<color\=#A5FCFF>SUPANAT_hub: หยิบขึ้นมา <color\=white>(เนยถั่ว)<color\=white>\n<color\=#A5FCFF>SUPANAT_hub: หยิบขึ้นมา <color\=white>(ดัมเบล)<color\=white>\n<color\=#A5FCFF>SUPANAT_hub: หยิบขึ้นมา <color\=white>(Spooo Bean)<color\=white>\nมีทำเครื่องหมายอย่างอย่างบนแผนที่คุณของคุณคุณคุณ\n<color\=#A5FCFF>SUPANAT_hub: หยิบขึ้นมา <color\=white>(Jetpack)<color\=white>\n<color\=#A5FCFF>SUPANAT_hub: หยิบขึ้นมา <color\=white>(บร็อคโคลี)<color\=white>\n<color\=#A5FCFF>SUPANAT_hub: หยิบขึ้นมา <color\=#00C0FF>(Dracula)<color\=white>
+Dracula\n<size\=75%>Permanently increase max hp on kill=เรือรบ\n<size\=75%>เพิ่ม HP สูงสุดอย่างถาวรในการฆ่า
+5x Coin=เหรียญ 5x
+Unlocked Adamantite Axe=Adamantite ขวานปลดล็อค
+1x Adamantite Axe=1x Adamantite ขวาน
+Press E to trade with Chef=กด E เพื่อแลกเปลี่ยนกับพ่อครัว
+Wolfskin (x5)=Wolfskin (x5)
+Water Arrow (x5)=ลูกศรน้ำ (x5)
+Adamantite Arrow (x5)=Adamantite Arrow (x5)
+Ancient Bow (x1)=ธนูโบราณ (x1)
+Fir bow (x1)=Fir Bow (x1)
+Wood Bow (x1)=ธนูไม้ (x1)
+Oak Bow (x1)=Oak Bow (x1)
+Archer Trader=ผู้ค้าธนู
+Fletchers hut=Fletchers Hut
+20x Flint Arrow=ลูกศร Flint 20x
+Logpile=logpile
+Chiefs Chest=หัวหน้าหน้าอก
+Unlocked Gold bar=ทองคำที่ปลดล็อค
+13x Gold bar=บาร์ทอง 13x
+5x Iron bar=บาร์เหล็ก 5x
+Unlocked Gold Boots=รองเท้าบูททองคำที่ปลดล็อค
+Unlocked Gold Helmet=หมวกกันน็อกทองคำที่ปลดล็อค
+Unlocked Gold Pants=กางเกงทองคำที่ปลดล็อค
+Unlocked Gold Chestplate=ปลดล็อคหน้าอกทองคำ
+Unlocked Gold Pickaxe=Pickaxe ทองที่ปลดล็อค
+Unlocked Gold Sword=ดาบทองคำที่ปลดล็อค
+Oak=ต้นโอ๊ก
+ขึ้นมา <color\=white>(Spooo Bean)<color\=white>\nมีทำเครื่องหมายอย่างอย่างบนแผนที่คุณของคุณคุณคุณ\n<color\=#A5FCFF>SUPANAT_hub: หยิบขึ้นมา <color\=white>(Jetpack)<color\=white>\n<color\=#A5FCFF>SUPANAT_hub: หยิบขึ้นมา <color\=white>(บร็อคโคลี)<color\=white>\n<color\=#A5FCFF>SUPANAT_hub: หยิบขึ้นมา <color\=#00C0FF>(Dracula)<color\=white>\n<color\=#A5FCFF>SUPANAT_hub: หยิบขึ้นมา <color\=#00C0FF>(Dracula)<color\=white>\n<color\=orange>SUPANAT_hub received rare drop: <color\=red>Blade=ขึ้นมา <color\=white>(Spooo Bean)<color\=white>\nมีทำเครื่องหมายอย่างอย่างบนแผนที่คุณของคุณคุณคุณ\n<color\=#A5FCFF>SUPANAT_hub: หยิบขึ้นมา <color\=white>(Jetpack)<color\=white>\n<color\=#A5FCFF>SUPANAT_hub: หยิบขึ้นมา <color\=white>(บร็อคโคลี)<color\=white>\n<color\=#A5FCFF>SUPANAT_hub: หยิบขึ้นมา <color\=#00C0FF>(Dracula)<color\=white>\n<color\=#A5FCFF>SUPANAT_hub: หยิบขึ้นมา <color\=#00C0FF>(Dracula)<color\=white>\n<color\=orange>Supanat_hub ได้รับการลดลงที่หายาก: <color\=red>ใบมีด
+4x Rock=หิน 4x
+16x Coin=เหรียญ 16x
+1x Iron bar=บาร์เหล็ก 1x
+13x Coin=เหรียญ 13x
+Unlocked Blade=ใบมีดปลดล็อค
+1x Blade=ใบมีด 1x
+15x Coin=เหรียญ 15x
+Blade\n<size\=50%><i>I need a sword hilt for this=ใบมีด\n<size\=50%><i>ฉันต้องการด้ามดาบสำหรับสิ่งนี้
+Challenge Gronk=ท้าทาย Gronk
+ขึ้นมา <color\=white>(Spooo Bean)<color\=white>\nมีทำเครื่องหมายอย่างอย่างบนแผนที่คุณของคุณคุณคุณ\n<color\=#A5FCFF>SUPANAT_hub: หยิบขึ้นมา <color\=white>(Jetpack)<color\=white>\n<color\=#A5FCFF>SUPANAT_hub: หยิบขึ้นมา <color\=white>(บร็อคโคลี)<color\=white>\n<color\=#A5FCFF>SUPANAT_hub: หยิบขึ้นมา <color\=#00C0FF>(Dracula)<color\=white>\n<color\=#A5FCFF>SUPANAT_hub: หยิบขึ้นมา <color\=#00C0FF>(Dracula)<color\=white>\n<color\=orange>Supanat_hub ได้รับการลดลงที่หายาก: <color\=red>ใบมีด\n<color\=orange>SUPANAT_hub summoned <color\=red>Gronk=ขึ้นมา <color\=white>(Spooo Bean)<color\=white>\nมีทำเครื่องหมายอย่างอย่างบนแผนที่คุณของคุณคุณคุณ\n<color\=#A5FCFF>SUPANAT_hub: หยิบขึ้นมา <color\=white>(Jetpack)<color\=white>\n<color\=#A5FCFF>SUPANAT_hub: หยิบขึ้นมา <color\=white>(บร็อคโคลี)<color\=white>\n<color\=#A5FCFF>SUPANAT_hub: หยิบขึ้นมา <color\=#00C0FF>(Dracula)<color\=white>\n<color\=#A5FCFF>SUPANAT_hub: หยิบขึ้นมา <color\=#00C0FF>(Dracula)<color\=white>\n<color\=orange>Supanat_hub ได้รับการลดลงที่หายาก: <color\=red>ใบมีด\n<color\=orange>Supanat_hub เรียก <color\=red>กรอง
+Buff Gronk=บัฟ Gronk
+ขึ้นมา <color\=white>(Spooo Bean)<color\=white>\nมีทำเครื่องหมายอย่างอย่างบนแผนที่คุณของคุณคุณคุณ\n<color\=#A5FCFF>SUPANAT_hub: หยิบขึ้นมา <color\=white>(Jetpack)<color\=white>\n<color\=#A5FCFF>SUPANAT_hub: หยิบขึ้นมา <color\=white>(บร็อคโคลี)<color\=white>\n<color\=#A5FCFF>SUPANAT_hub: หยิบขึ้นมา <color\=#00C0FF>(Dracula)<color\=white>\n<color\=#A5FCFF>SUPANAT_hub: หยิบขึ้นมา <color\=#00C0FF>(Dracula)<color\=white>\n<color\=orange>Supanat_hub ได้รับการลดลงที่หายาก: <color\=red>ใบมีด\n<color\=orange>Supanat_hub เรียก <color\=red>กรอง\n<color\=orange>SUPANAT_hub received rare drop: <color\=red>Sword Hilt=ขึ้นมา <color\=white>(Spooo Bean)<color\=white>\nมีทำเครื่องหมายอย่างอย่างบนแผนที่คุณของคุณคุณคุณ\n<color\=#A5FCFF>SUPANAT_hub: หยิบขึ้นมา <color\=white>(Jetpack)<color\=white>\n<color\=#A5FCFF>SUPANAT_hub: หยิบขึ้นมา <color\=white>(บร็อคโคลี)<color\=white>\n<color\=#A5FCFF>SUPANAT_hub: หยิบขึ้นมา <color\=#00C0FF>(Dracula)<color\=white>\n<color\=#A5FCFF>SUPANAT_hub: หยิบขึ้นมา <color\=#00C0FF>(Dracula)<color\=white>\n<color\=orange>Supanat_hub ได้รับการลดลงที่หายาก: <color\=red>ใบมีด\n<color\=orange>Supanat_hub เรียก <color\=red>กรอง\n<color\=orange>Supanat_hub ได้รับการลดลงที่หายาก: <color\=red>ดาบด้ามจับ
+Unlocked Sword Hilt=ดาบดาบปลดล็อค
+1x Sword Hilt=ดาบ 1x ดาบ
+102x Coin=เหรียญ 102x
+Unlocked Oak Wood=ปลดล็อคไม้โอ๊ค
+14x Oak Wood=ไม้โอ๊ค 14x
+ขึ้นมา <color\=white>(Spooo Bean)<color\=white>\nมีทำเครื่องหมายอย่างอย่างบนแผนที่คุณของคุณคุณคุณ\n<color\=#A5FCFF>SUPANAT_hub: หยิบขึ้นมา <color\=white>(Jetpack)<color\=white>\n<color\=#A5FCFF>SUPANAT_hub: หยิบขึ้นมา <color\=white>(บร็อคโคลี)<color\=white>\n<color\=#A5FCFF>SUPANAT_hub: หยิบขึ้นมา <color\=#00C0FF>(Dracula)<color\=white>\n<color\=#A5FCFF>SUPANAT_hub: หยิบขึ้นมา <color\=#00C0FF>(Dracula)<color\=white>\n<color\=orange>Supanat_hub ได้รับการลดลงที่หายาก: <color\=red>ใบมีด\n<color\=orange>Supanat_hub เรียก <color\=red>กรอง\n<color\=orange>SUPANAT_hub received rare drop: <color\=red>Sword Hilt\n<color\=#A5FCFF>SUPANAT_hub: Picked up <color\=#00C0FF>(Juice)<color\=white>=ขึ้นมา <color\=white>(Spooo Bean)<color\=white>\nมีทำเครื่องหมายอย่างอย่างบนแผนที่คุณของคุณคุณคุณ\n<color\=#A5FCFF>SUPANAT_hub: หยิบขึ้นมา <color\=white>(Jetpack)<color\=white>\n<color\=#A5FCFF>SUPANAT_hub: หยิบขึ้นมา <color\=white>(บร็อคโคลี)<color\=white>\n<color\=#A5FCFF>SUPANAT_hub: หยิบขึ้นมา <color\=#00C0FF>(Dracula)<color\=white>\n<color\=#A5FCFF>SUPANAT_hub: หยิบขึ้นมา <color\=#00C0FF>(Dracula)<color\=white>\n<color\=orange>Supanat_hub ได้รับการลดลงที่หายาก: <color\=red>ใบมีด\n<color\=orange>Supanat_hub เรียก <color\=red>กรอง\n<color\=orange>Supanat_hub ได้รับการลดลงที่หายาก: <color\=red>ดาบด้ามจับ\n<color\=#A5FCFF>SUPANAT_hub: หยิบขึ้นมา <color\=#00C0FF>(น้ำผลไม้)<color\=white>
+Slurbon Shroom\n<size\=50%>(Press "E" to pickup=Slurbon Shroom\n<size\=50%>(กด "E" เพื่อรับ)
+Unlocked Slurbon Shroom=ปลดล็อค slurbon shroom
+1x Slurbon Shroom=1x slurbon shroom
+Unlocked Weird Soup=ปลดล็อคซุปแปลก ๆ
+Gold bar\n<size\=50%><i>block of gold=แถบทองคำ\n<size\=50%><i>บล็อกทองคำ
+Sword Hilt\n<size\=50%><i>I'm gonna need a blade for this=ดาบด้ามจับ\n<size\=50%><i>ฉันจะต้องมีใบมีดสำหรับสิ่งนี้
+ขึ้นมา <color\=white>(Spooo Bean)<color\=white>\nมีทำเครื่องหมายอย่างอย่างบนแผนที่คุณของคุณคุณคุณ\n<color\=#A5FCFF>SUPANAT_hub: หยิบขึ้นมา <color\=white>(Jetpack)<color\=white>\n<color\=#A5FCFF>SUPANAT_hub: หยิบขึ้นมา <color\=white>(บร็อคโคลี)<color\=white>\n<color\=#A5FCFF>SUPANAT_hub: หยิบขึ้นมา <color\=#00C0FF>(Dracula)<color\=white>\n<color\=#A5FCFF>SUPANAT_hub: หยิบขึ้นมา <color\=#00C0FF>(Dracula)<color\=white>\n<color\=orange>Supanat_hub ได้รับการลดลงที่หายาก: <color\=red>ใบมีด\n<color\=orange>Supanat_hub เรียก <color\=red>กรอง\n<color\=orange>Supanat_hub ได้รับการลดลงที่หายาก: <color\=red>ดาบด้ามจับ\n<color\=#A5FCFF>SUPANAT_hub: หยิบขึ้นมา <color\=#00C0FF>(น้ำผลไม้)<color\=white>\n<color\=#A5FCFF>SUPANAT_hub: Picked up <color\=orange>(Sniper Scope)<color\=white>=ขึ้นมา <color\=white>(Spooo Bean)<color\=white>\nมีทำเครื่องหมายอย่างอย่างบนแผนที่คุณของคุณคุณคุณ\n<color\=#A5FCFF>SUPANAT_hub: หยิบขึ้นมา <color\=white>(Jetpack)<color\=white>\n<color\=#A5FCFF>SUPANAT_hub: หยิบขึ้นมา <color\=white>(บร็อคโคลี)<color\=white>\n<color\=#A5FCFF>SUPANAT_hub: หยิบขึ้นมา <color\=#00C0FF>(Dracula)<color\=white>\n<color\=#A5FCFF>SUPANAT_hub: หยิบขึ้นมา <color\=#00C0FF>(Dracula)<color\=white>\n<color\=orange>Supanat_hub ได้รับการลดลงที่หายาก: <color\=red>ใบมีด\n<color\=orange>Supanat_hub เรียก <color\=red>กรอง\n<color\=orange>Supanat_hub ได้รับการลดลงที่หายาก: <color\=red>ดาบด้ามจับ\n<color\=#A5FCFF>SUPANAT_hub: หยิบขึ้นมา <color\=#00C0FF>(น้ำผลไม้)<color\=white>\n<color\=#A5FCFF>SUPANAT_hub: หยิบขึ้นมา <color\=orange>(ขอบเขตของมือปืน)<color\=white>
+Sniper Scope\n<size\=75%>Small chance on hit to deal chunky damage=ขอบเขตซุ่มยิง\n<size\=75%>โอกาสเล็กน้อยที่จะได้รับความเสียหายอย่างมาก
+ub ได้รับการลดลงที่หายาก: <color\=red>ใบมีด\n<color\=orange>Supanat_hub เรียก <color\=red>กรอง\n<color\=orange>Supanat_hub ได้รับการลดลงที่หายาก: <color\=red>ดาบด้ามจับ\n<color\=#A5FCFF>SUPANAT_hub: หยิบขึ้นมา <color\=#00C0FF>(น้ำผลไม้)<color\=white>\n<color\=#A5FCFF>SUPANAT_hub: หยิบขึ้นมา <color\=orange>(ขอบเขตของมือปืน)<color\=white>\n<color\=#A5FCFF>SUPANAT_hub: หยิบขึ้นมา <color\=white>(บร็อคโคลี)<color\=white>=ub ได้รับลดลงที่หายาก <color\=red>ใบมีด\n<color\=orange>Supanat_hub เรียก <color\=red>กรอง\n<color\=orange>Supanat_hub ได้รับการลดลงที่หายาก: <color\=red>ดาบด้ามจับ\n<color\=#A5FCFF>SUPANAT_hub: หยิบขึ้นมา <color\=#00C0FF>(น้ำผลไม้)<color\=white>\n<color\=#A5FCFF>SUPANAT_hub: หยิบขึ้นมา <color\=orange>(ขอบเขตของมือปืน)<color\=white>\n<color\=#A5FCFF>SUPANAT_hub: หยิบขึ้นมา <color\=white>(บร็อคโคลี)<color\=white>
+Obamium=โอบาเมียม
+Gold Pickaxe<size\=60%>\nGold bar - 5\nBark - 5\nWood - 5=ทองคำ<size\=60%>\nGold Bar - 5 Bark - 5 Wood - 5
+Steel Pants<size\=60%>\nIron bar - 15=กางเกงเหล็ก<size\=60%>\nเหล็กบาร์ - 15
+12x Gold Ore=แร่ทองคำ 12x
+Wolfskin\n<size\=50%><i>Feels warm and cozy=หมาป่า\n<size\=50%><i>รู้สึกอบอุ่นและอบอุ่น
+14x Coin=เหรียญ 14x
+Dough<size\=60%>\nWheat - 5=แป้งโด<size\=60%>\nข้าวสาลี - 5
+ub ได้รับลดลงที่หายาก <color\=red>ใบมีด\n<color\=orange>Supanat_hub เรียก <color\=red>กรอง\n<color\=orange>Supanat_hub ได้รับการลดลงที่หายาก: <color\=red>ดาบด้ามจับ\n<color\=#A5FCFF>SUPANAT_hub: หยิบขึ้นมา <color\=#00C0FF>(น้ำผลไม้)<color\=white>\n<color\=#A5FCFF>SUPANAT_hub: หยิบขึ้นมา <color\=orange>(ขอบเขตของมือปืน)<color\=white>\n<color\=#A5FCFF>SUPANAT_hub: หยิบขึ้นมา <color\=white>(บร็อคโคลี)<color\=white>\n<color\=#A5FCFF>SUPANAT_hub: หยิบขึ้นมา <color\=white>(หมวก Robin Hood)<color\=white>\n<color\=#A5FCFF>SUPANAT_hub: หยิบขึ้นมา <color\=white>(หมวก Robin Hood)<color\=white>\n<color\=#A5FCFF>SUPANAT_hub: หยิบขึ้นมา <color\=white>(น้ำส้ม)<color\=white>\n<color\=#A5FCFF>SUPANAT_hub: Picked up <color\=#00C0FF>(Janniks Frog)<color\=white>=ub ได้รับลดลงที่หายาก <color\=red>ใบมีด\n<color\=orange>Supanat_hub เรียก <color\=red>กรอง\n<color\=orange>Supanat_hub ได้รับการลดลงที่หายาก: <color\=red>ดาบด้ามจับ\n<color\=#A5FCFF>SUPANAT_hub: หยิบขึ้นมา <color\=#00C0FF>(น้ำผลไม้)<color\=white>\n<color\=#A5FCFF>SUPANAT_hub: หยิบขึ้นมา <color\=orange>(ขอบเขตของมือปืน)<color\=white>\n<color\=#A5FCFF>SUPANAT_hub: หยิบขึ้นมา <color\=white>(บร็อคโคลี)<color\=white>\n<color\=#A5FCFF>SUPANAT_hub: หยิบขึ้นมา <color\=white>(หมวก Robin Hood)<color\=white>\n<color\=#A5FCFF>SUPANAT_hub: หยิบขึ้นมา <color\=white>(หมวก Robin Hood)<color\=white>\n<color\=#A5FCFF>SUPANAT_hub: หยิบขึ้นมา <color\=white>(น้ำส้ม)<color\=white>\n<color\=#A5FCFF>SUPANAT_hub: หยิบขึ้นมา <color\=#00C0FF>(Janniks Frog)<color\=white>
+Janniks Frog\n<size\=75%>+1 Jump=Janniks กบ\n<size\=75%>+1 กระโดด
+Coin<size\=60%>\nGold bar - 1=เหรียญ<size\=60%>\nGold Bar - 1
+4x Iron bar=บาร์เหล็ก 4x
+Gold Boots<size\=60%>\nGold bar - 5=รองเท้าบูททองคำ<size\=60%>\nGold Bar - 5
+Adamantite Axe<size\=60%>\nAdamantite bar - 5\nBark - 5\nOak Wood - 10=ขวาน Adamantite<size\=60%>\nAdamantite Bar - 5 Bark - 5 Oak Wood - 10
+1x Torch=คบเพลิง 1x
+Rope<size\=60%>\nWheat - 10\nBark - 10=เชือก<size\=60%>\nข้าวสาลี - 10 เปลือก - 10
+Wheat\n<size\=50%><i>i could totally make dough with this=ข้าวสาลี\n<size\=50%><i>ฉันสามารถทำสิ่งนี้ได้ทั้งหมด
+1x Workbench=1x Workbench
+Workbench\n<size\=50%><i>A crafting table=โต๊ะทำงาน\n<size\=50%><i>โต๊ะประดิษฐ์
+Wood Wall Half<size\=60%>\nWood - 2=ผนังไม้ครึ่ง<size\=60%>\nไม้ - 2
+Steel Pickaxe\n<size\=50%><i>its pickaxe=เหล็ก\n<size\=50%><i>pickaxe ของมัน
+1x Wood Pickaxe=1x wood pickaxe
+7x Gold Ore=แร่ทองคำ 7x
+Unlocked Mithril Ore=ปลดล็อคแร่มิ ธ ริล
+10x Mithril Ore=แร่ mithril 10x
+12x Mithril Ore=12x Mithril Ore
+6x Mithril Ore=แร่ mithril 6x
+13x Mithril Ore=13x Mithril Ore
+14x Mithril Ore=แร่ mithril 14x
+\=white>\n<color\=#A5FCFF>SUPANAT_hub: หยิบขึ้นมา <color\=white>(หมวก Robin Hood)<color\=white>\n<color\=#A5FCFF>SUPANAT_hub: หยิบขึ้นมา <color\=white>(น้ำส้ม)<color\=white>\n<color\=#A5FCFF>SUPANAT_hub: หยิบขึ้นมา <color\=#00C0FF>(Janniks Frog)<color\=white>\n<color\=#A5FCFF>SUPANAT_hub: หยิบขึ้นมา <color\=white>(บร็อคโคลี)<color\=white>\n<color\=#A5FCFF>SUPANAT_hub: หยิบขึ้นมา <color\=white>(บร็อคโคลี)<color\=white>=\= สีขาว>\n<color\=#A5FCFF>SUPANAT_hub: หยิบขึ้นมา <color\=white>(หมวก Robin Hood)<color\=white>\n<color\=#A5FCFF>SUPANAT_hub: หยิบขึ้นมา <color\=white>(น้ำส้ม)<color\=white>\n<color\=#A5FCFF>SUPANAT_hub: หยิบขึ้นมา <color\=#00C0FF>(Janniks Frog)<color\=white>\n<color\=#A5FCFF>SUPANAT_hub: หยิบขึ้นมา <color\=white>(บร็อคโคลี)<color\=white>\n<color\=#A5FCFF>SUPANAT_hub: หยิบขึ้นมา <color\=white>(บร็อคโคลี)<color\=white>
+4x Flint=4x Flint
+Steel Pants\n<size\=50%><i>it protecc leg\n+8 armor\n=กางเกงเหล็ก\n<size\=50%><i>ชุดเกราะ Protecc +8\n
+17x Cooked Meat=เนื้อปรุงสุก 17x
+5x Rock=หิน 5x
+Challenge Chief=หัวหน้าท้าทาย
+Buff Chief=บัฟหัวหน้า
+123x Coin=เหรียญ 123x
+obin Hood)<color\=white>\n<color\=#A5FCFF>SUPANAT_hub: หยิบขึ้นมา <color\=white>(ยาเม็ดสีน้ำเงิน)<color\=white>\n<color\=#A5FCFF>SUPANAT_hub: หยิบขึ้นมา <color\=white>(หมวก Robin Hood)<color\=white>\n<color\=orange>Supanat_hub เรียก <color\=red>หัวหน้า\n<color\=#A5FCFF>SUPANAT_hub: หยิบขึ้นมา <color\=#00C0FF>(น้ำผลไม้)<color\=white>\n<color\=#A5FCFF>SUPANAT_hub: หยิบขึ้นมา <color\=#00C0FF>(Janniks Frog)<color\=white>=Robin Hood)<color\=white>\n<color\=#A5FCFF>SUPANAT_hub: หยิบขึ้นมา <color\=white>(ยาเม็ดสีน้ำเงิน)<color\=white>\n<color\=#A5FCFF>SUPANAT_hub: หยิบขึ้นมา <color\=white>(หมวก Robin Hood)<color\=white>\n<color\=orange>Supanat_hub เรียก <color\=red>หัวหน้า\n<color\=#A5FCFF>SUPANAT_hub: หยิบขึ้นมา <color\=#00C0FF>(น้ำผลไม้)<color\=white>\n<color\=#A5FCFF>SUPANAT_hub: หยิบขึ้นมา <color\=#00C0FF>(Janniks Frog)<color\=white>
+Bread\n<size\=50%><i>lets get this bread=ขนมปัง\n<size\=50%><i>มารับขนมปังนี้
+13x Birch Wood=ไม้เบิร์ช 13x
+Unlocked Ancient Bow=ปลดล็อคธนูโบราณ
+Fletch\n<size\=50%>(Press "E" to use)=เฟลติก\n<size\=50%>(กด "E" เพื่อใช้)
+Fletching=การเลื้อย
+Misc=อื่น ๆ
+Arrows=ลูกศร
+Bows=ธนู
+Mithril Ore\n<size\=50%><i>its hard rock=แร่มิ ธ ริล\n<size\=50%><i>ฮาร์ดร็อค
+Unlocked Steel Arrow=ลูกศรเหล็กที่ปลดล็อค
+Flint Arrow<size\=60%>\nWood - 2\nFlint - 1=ลูกศรหินเหล็กไฟ<size\=60%>\nไม้ - 2\nหินเหล็กไฟ - 1
+Unlocked Dark Oak Wood=ปลดล็อคไม้โอ๊คสีเข้ม
+12x Dark Oak Wood=ไม้โอ๊คสีเข้ม 12x
+Unlocked Gronks Sword=ปลดล็อคดาบ Gronks
+13x Dark Oak Wood=ไม้โอ๊คสีเข้ม 13x
+Robin Hood)<color\=white>\n<color\=#A5FCFF>SUPANAT_hub: หยิบขึ้นมา <color\=white>(ยาเม็ดสีน้ำเงิน)<color\=white>\n<color\=#A5FCFF>SUPANAT_hub: หยิบขึ้นมา <color\=white>(หมวก Robin Hood)<color\=white>\n<color\=orange>Supanat_hub เรียก <color\=red>หัวหน้า\n<color\=#A5FCFF>SUPANAT_hub: หยิบขึ้นมา <color\=#00C0FF>(น้ำผลไม้)<color\=white>\n<color\=#A5FCFF>SUPANAT_hub: หยิบขึ้นมา <color\=#00C0FF>(Janniks Frog)<color\=white>\n<color\=orange>Supanat_hub เรียก <color\=red>หัวหน้า\n<color\=orange>SUPANAT_hub received rare drop: <color\=red>Spear Tip=Robin Hood)<color\=white>\n<color\=#A5FCFF>SUPANAT_hub: หยิบขึ้นมา <color\=white>(ยาเม็ดสีน้ำเงิน)<color\=white>\n<color\=#A5FCFF>SUPANAT_hub: หยิบขึ้นมา <color\=white>(หมวก Robin Hood)<color\=white>\n<color\=orange>Supanat_hub เรียก <color\=red>หัวหน้า\n<color\=#A5FCFF>SUPANAT_hub: หยิบขึ้นมา <color\=#00C0FF>(น้ำผลไม้)<color\=white>\n<color\=#A5FCFF>SUPANAT_hub: หยิบขึ้นมา <color\=#00C0FF>(Janniks Frog)<color\=white>\n<color\=orange>Supanat_hub เรียก <color\=red>หัวหน้า\n<color\=orange>Supanat_hub ได้รับการลดลงที่หายาก: <color\=red>ปลายหอก
+Robin Hood)<color\=white>\n<color\=#A5FCFF>SUPANAT_hub: หยิบขึ้นมา <color\=white>(ยาเม็ดสีน้ำเงิน)<color\=white>\n<color\=#A5FCFF>SUPANAT_hub: หยิบขึ้นมา <color\=white>(หมวก Robin Hood)<color\=white>\n<color\=orange>Supanat_hub เรียก <color\=red>หัวหน้า\n<color\=#A5FCFF>SUPANAT_hub: หยิบขึ้นมา <color\=#00C0FF>(น้ำผลไม้)<color\=white>\n<color\=#A5FCFF>SUPANAT_hub: หยิบขึ้นมา <color\=#00C0FF>(Janniks Frog)<color\=white>\n<color\=orange>Supanat_hub เรียก <color\=red>หัวหน้า\n<color\=orange>SUPANAT_hub received rare drop: <color\=red>Spear Tip\n<color\=#A5FCFF>SUPANAT_hub: Picked up <color\=#00C0FF>(Crimson Dagger)<color\=white>=Robin Hood)<color\=white>\n<color\=#A5FCFF>SUPANAT_hub: หยิบขึ้นมา <color\=white>(ยาเม็ดสีน้ำเงิน)<color\=white>\n<color\=#A5FCFF>SUPANAT_hub: หยิบขึ้นมา <color\=white>(หมวก Robin Hood)<color\=white>\n<color\=orange>Supanat_hub เรียก <color\=red>หัวหน้า\n<color\=#A5FCFF>SUPANAT_hub: หยิบขึ้นมา <color\=#00C0FF>(น้ำผลไม้)<color\=white>\n<color\=#A5FCFF>SUPANAT_hub: หยิบขึ้นมา <color\=#00C0FF>(Janniks Frog)<color\=white>\n<color\=orange>Supanat_hub เรียก <color\=red>หัวหน้า\n<color\=orange>Supanat_hub ได้รับการลดลงที่หายาก: <color\=red>ปลายหอก\n<color\=#A5FCFF>SUPANAT_hub: หยิบขึ้นมา <color\=#00C0FF>(กริชสีแดงเข้ม)<color\=white>
+Crimson Dagger\n<size\=75%>Lifesteal - Dealing damage heals you=กริชสีแดงเข้ม\n<size\=75%>LIFESTEAL - การจัดการกับความเสียหายช่วยรักษาคุณ
+88x Coin=เหรียญ 88x
+Unlocked Spear Tip=ปลายหอกปลดล็อค
+1x Spear Tip=ปลายหอก 1x
+Unlocked Chiefs Spear=ปลดล็อคหัวหน้าหอก
+Spear Tip\n<size\=50%><i>Looks like the tip of a spear=ปลายหอก\n<size\=50%><i>ดูเหมือนปลายของหอก
+Gold Ore\n<size\=50%><i>its hard rock=แร่ทองคำ\n<size\=50%><i>ฮาร์ดร็อค
+18x Coin=เหรียญ 18x
+Robin Hood)<color\=white>\n<color\=#A5FCFF>SUPANAT_hub: หยิบขึ้นมา <color\=white>(ยาเม็ดสีน้ำเงิน)<color\=white>\n<color\=#A5FCFF>SUPANAT_hub: หยิบขึ้นมา <color\=white>(หมวก Robin Hood)<color\=white>\n<color\=orange>Supanat_hub เรียก <color\=red>หัวหน้า\n<color\=#A5FCFF>SUPANAT_hub: หยิบขึ้นมา <color\=#00C0FF>(น้ำผลไม้)<color\=white>\n<color\=#A5FCFF>SUPANAT_hub: หยิบขึ้นมา <color\=#00C0FF>(Janniks Frog)<color\=white>\n<color\=orange>Supanat_hub เรียก <color\=red>หัวหน้า\n<color\=orange>Supanat_hub ได้รับการลดลงที่หายาก: <color\=red>ปลายหอก\n<color\=#A5FCFF>SUPANAT_hub: หยิบขึ้นมา <color\=#00C0FF>(กริชสีแดงเข้ม)<color\=white>\n<color\=#A5FCFF>SUPANAT_hub: หยิบขึ้นมา <color\=white>(รองเท้าผ้าใบ)<color\=white>\n<color\=#A5FCFF>SUPANAT_hub: Picked up <color\=orange>(Wings of Glory)<color\=white>=Robin Hood)<color\=white>\n<color\=#A5FCFF>SUPANAT_hub: หยิบขึ้นมา <color\=white>(ยาเม็ดสีน้ำเงิน)<color\=white>\n<color\=#A5FCFF>SUPANAT_hub: หยิบขึ้นมา <color\=white>(หมวก Robin Hood)<color\=white>\n<color\=orange>Supanat_hub เรียก <color\=red>หัวหน้า\n<color\=#A5FCFF>SUPANAT_hub: หยิบขึ้นมา <color\=#00C0FF>(น้ำผลไม้)<color\=white>\n<color\=#A5FCFF>SUPANAT_hub: หยิบขึ้นมา <color\=#00C0FF>(Janniks Frog)<color\=white>\n<color\=orange>Supanat_hub เรียก <color\=red>หัวหน้า\n<color\=orange>Supanat_hub ได้รับการลดลงที่หายาก: <color\=red>ปลายหอก\n<color\=#A5FCFF>SUPANAT_hub: หยิบขึ้นมา <color\=#00C0FF>(กริชสีแดงเข้ม)<color\=white>\n<color\=#A5FCFF>SUPANAT_hub: หยิบขึ้นมา <color\=white>(รองเท้าผ้าใบ)<color\=white>\n<color\=#A5FCFF>SUPANAT_hub: หยิบขึ้นมา <color\=orange>(Wings of Glory)<color\=white>
+Wings of Glory\n<size\=75%>Deal bonus damage while falling=ปีกแห่งความรุ่งโรจน์\n<size\=75%>จัดการโบนัสความเสียหายในขณะที่ล้ม
+red>หัวหน้า\n<color\=orange>Supanat_hub ได้รับการลดลงที่หายาก: <color\=red>ปลายหอก\n<color\=#A5FCFF>SUPANAT_hub: หยิบขึ้นมา <color\=#00C0FF>(กริชสีแดงเข้ม)<color\=white>\n<color\=#A5FCFF>SUPANAT_hub: หยิบขึ้นมา <color\=white>(รองเท้าผ้าใบ)<color\=white>\n<color\=#A5FCFF>SUPANAT_hub: หยิบขึ้นมา <color\=orange>(Wings of Glory)<color\=white>\n<color\=#A5FCFF>SUPANAT_hub: Picked up <color\=white>(Red Pill)<color\=white>=สีแดง> หัวหน้า\n<color\=orange>Supanat_hub ได้รับการลดลงที่หายาก: <color\=red>ปลายหอก\n<color\=#A5FCFF>SUPANAT_hub: หยิบขึ้นมา <color\=#00C0FF>(กริชสีแดงเข้ม)<color\=white>\n<color\=#A5FCFF>SUPANAT_hub: หยิบขึ้นมา <color\=white>(รองเท้าผ้าใบ)<color\=white>\n<color\=#A5FCFF>SUPANAT_hub: หยิบขึ้นมา <color\=orange>(Wings of Glory)<color\=white>\n<color\=#A5FCFF>SUPANAT_hub: หยิบขึ้นมา <color\=white>(ยาเม็ดสีแดง)<color\=white>
+Red Pill\n<size\=75%>Increase max hp=ยาเม็ดสีแดง\n<size\=75%>เพิ่ม HP สูงสุด
+3x Wood=ไม้ 3x
+Hard=แข็ง
+Soft=อ่อนนุ่ม
+Medium=กลาง
+High=สูง
+Four=สี่
+Half=ครึ่ง
+Windowed=หน้าต่าง
+MaximizedWindow=หน้าต่างขยาย
+FullScreenWindow=เต็มหน้าจอ
